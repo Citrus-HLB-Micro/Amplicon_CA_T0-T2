@@ -1,4 +1,5 @@
 #!/usr/bin/bash -l
+#SBATCH -o logs/setup.log -p short -c 8 -n 1 -N 1 --mem 8gb
 
 if [ -s config.txt ]; then
 	echo "Using config.txt for variables"
@@ -27,7 +28,7 @@ do
 	mkdir -p $marker
 	for file in $(ls ${FASTQSOURCE}/${marker}/*_${marker}_*.gz)
 	do
-		outname=$(basename $file | perl -p -e "s/_${marker}_S\d+_(R[12])_001.fastq.gz/_\$1.fastq.gz/")
+		outname=$(basename $file | perl -p -e "s/_${marker}_(S\d+)_(R[12])_001.fastq.gz/_NoCode_L001_\$2_001.fastq.gz/")
 		if [ ! -f $marker/$outname ]; then
 			ln -s $file $marker/$outname
 		fi
@@ -37,11 +38,33 @@ do
 		mkdir -p region_$region/$marker
 		tail -n +2 $METADATA | grep -P "\t${region}_" | cut -f1 | while read sample
 		do
-			ln -s ../../${marker}/${sample}_R1.fastq.gz region_${region}/${marker}
-			ln -s ../../${marker}/${sample}_R2.fastq.gz region_${region}/${marker}
+			LEFT=${sample}_NoCode_L001_R1_001.fastq.gz
+			RIGHT=${sample}_NoCode_L001_R2_001.fastq.gz
+			if [[ ! -f region_${region}/${marker}/$LEFT || ! -f region_${region}/${marker}/$RIGHT ]]; then
+				ln -s ../../${marker}/$LEFT ../../${marker}/$RIGHT region_${region}/${marker}
+			fi
 		done
-		pushd region_${region}/${marker}
-		ln -s ../../${marker}/Neg-Pool*.fastq.gz ../../${marker}/Pos-Pool*.fastq.gz ./
-		popd
+		head -n 1 $METADATA > region_$region/metadata_${marker}.tsv 
+		tail -n +2 $METADATA | grep -P "\t${region}_" >> region_$region/metadata_${marker}.tsv 
+		# Add the control pools
+		# this is a little redundant it is getting count 2x for each region but 
+		# it should work
+		tail -n +2 $METADATA | grep -P "^(Pos|Neg)-Pool" | cut -f1 | while read sample
+		do
+			LEFT=${marker}/${sample}_NoCode_L001_R1_001.fastq.gz
+			RIGHT=${marker}/${sample}_NoCode_L001_R2_001.fastq.gz
+			if [[ ! -f $LEFT  || ! -f $RIGHT ]]; then
+				echo "ERROR: Missing Control Pool $sample ($LEFT,$RIGHT)"
+				continue
+			fi
+			len1=$(pigz -dc $LEFT | head -n 100 | wc -l  | awk '{print $1}' )
+			len2=$(pigz -dc $RIGHT | head -n 100 | wc -l | awk '{print $1}')
+			if [[ $len1 == 0 || $len2 = 0 ]]; then
+				echo "ERROR: Skipping Control Pool $sample as R1 ($len1) or R2 ($len2) are empty"
+				continue
+			fi
+			tail -n +2 $METADATA | grep -P "^$sample\s+" >> region_$region/metadata_${marker}.tsv
+			ln -s ../../$LEFT ../../$RIGHT region_${region}/${marker}/			
+		done
 	done
 done
