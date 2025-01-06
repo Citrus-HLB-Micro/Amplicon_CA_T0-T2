@@ -663,7 +663,6 @@ MCHT1R3	T1	Rhizosphere	California	CA_Field_1		MCH3	Z-T1-MCH3		CA1	mulch	control	
 MCHT1R4	T1	Rhizosphere	California	CA_Field_1		MCH4	Z-T1-MCH4		CA1	mulch	control	humic	4					2022
 MGCT1-S2	T1	Bulk_soil	California	CA_Field_1		MGC1	S-T1-MGC1		CA1	mulch	Glyphosate	control	1					2022
 MGCT1-S3	T1	Bulk_soil	California	CA_Field_1		MGC2	S-T1-MGC2		CA1	mulch	Glyphosate	control	2					2022
-MGCT1-S3-REDO	T1	Bulk_soil	California	CA_Field_1		MGC3	S-T1-MGC3		CA1	mulch	Glyphosate	control	3					2022
 MGCT1-S4-REDO	T1	Bulk_soil	California	CA_Field_1		MGC4	S-T1-MGC4		CA1	mulch	Glyphosate	control	4					2022
 MGCT1R1	T1	Rhizosphere	California	CA_Field_1		MGC1	Z-T1-MGC1		CA1	mulch	Glyphosate	control	1					2022
 MGCT1R2	T1	Rhizosphere	California	CA_Field_1		MGC2	Z-T1-MGC2		CA1	mulch	Glyphosate	control	2					2022
