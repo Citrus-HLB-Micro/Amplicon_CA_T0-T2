@@ -1,0 +1,1111 @@
+SampleID	Time_point	Tissue_type	State	Field	Sampling_date	ID	NewSampleID	OldID	Site	Main_plot	Sub_plot_A	Sub_plot_B	CA_Row	Location	Block	Bed	row	Year
+D011-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-011	S-T0-D011		Duda	compost	None				1	1		2021
+D011-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-011	Z-T0-D011		Duda	compost	None				1	1		2021
+D012-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-012	S-T0-D012		Duda	compost	Flumioxazin				1	1		2021
+D012-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-012	Z-T0-D012		Duda	compost	Flumioxazin				1	1		2021
+D013-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-013	S-T0-D013		Duda	compost	Glufosinate-ammonium				1	1		2021
+D013-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-013	Z-T0-D013		Duda	compost	Glufosinate-ammonium				1	1		2021
+D014-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-014	S-T0-D014		Duda	compost	Glyphosate				1	1		2021
+D014-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-014	Z-T0-D014		Duda	compost	Glyphosate				1	1		2021
+D021-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-021	S-T0-D021		Duda	control	None				1	2		2021
+D021-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-021	Z-T0-D021		Duda	control	None				1	2		2021
+D022-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-022	S-T0-D022		Duda	control	Flumioxazin				1	2		2021
+D022-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-022	Z-T0-D022		Duda	control	Flumioxazin				1	2		2021
+D023-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-023	S-T0-D023		Duda	control	Glufosinate-ammonium				1	2		2021
+D023-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-023	Z-T0-D023		Duda	control	Glufosinate-ammonium				1	2		2021
+D024-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-024	S-T0-D024		Duda	control	Glyphosate				1	2		2021
+D024-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-024	Z-T0-D024		Duda	control	Glyphosate				1	2		2021
+D031-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-031	S-T0-D031		Duda	humic	None				1	3		2021
+D031-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-031	Z-T0-D031		Duda	humic	None				1	3		2021
+D032-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-032	S-T0-D032		Duda	humic	Flumioxazin				1	3		2021
+D032-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-032	Z-T0-D032		Duda	humic	Flumioxazin				1	3		2021
+D033-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-033	S-T0-D033		Duda	humic	Glufosinate-ammonium				1	3		2021
+D033-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-033	Z-T0-D033		Duda	humic	Glufosinate-ammonium				1	3		2021
+D034-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-034	S-T0-D034		Duda	humic	Glyphosate				1	3		2021
+D034-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-034	Z-T0-D034		Duda	humic	Glyphosate				1	3		2021
+D041-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-041	S-T0-D041		Duda	control	Flumioxazin				2	4		2021
+D041-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-041	Z-T0-D041		Duda	control	Flumioxazin				2	4		2021
+D042-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-042	S-T0-D042		Duda	control	Glyphosate				2	4		2021
+D042-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-042	Z-T0-D042		Duda	control	Glyphosate				2	4		2021
+D043-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-043	S-T0-D043		Duda	control	None				2	4		2021
+D043-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-043	Z-T0-D043		Duda	control	None				2	4		2021
+D044-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-044	S-T0-D044		Duda	control	Glufosinate-ammonium				2	4		2021
+D044-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-044	Z-T0-D044		Duda	control	Glufosinate-ammonium				2	4		2021
+D051-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-051	S-T0-D051		Duda	compost	Flumioxazin				2	5		2021
+D051-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-051	Z-T0-D051		Duda	compost	Flumioxazin				2	5		2021
+D052-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-052	S-T0-D052		Duda	compost	Glyphosate				2	5		2021
+D052-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-052	Z-T0-D052		Duda	compost	Glyphosate				2	5		2021
+D053-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-053	S-T0-D053		Duda	compost	None				2	5		2021
+D053-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-053	Z-T0-D053		Duda	compost	None				2	5		2021
+D054-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-054	S-T0-D054		Duda	compost	Glufosinate-ammonium				2	5		2021
+D054-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-054	Z-T0-D054		Duda	compost	Glufosinate-ammonium				2	5		2021
+D061-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-061	S-T0-D061		Duda	humic	Flumioxazin				2	6		2021
+D061-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-061	Z-T0-D061		Duda	humic	Flumioxazin				2	6		2021
+D062-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-062	S-T0-D062		Duda	humic	Glyphosate				2	6		2021
+D062-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-062	Z-T0-D062		Duda	humic	Glyphosate				2	6		2021
+D063-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-063	S-T0-D063		Duda	humic	None				2	6		2021
+D063-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-063	Z-T0-D063		Duda	humic	None				2	6		2021
+D064-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-064	S-T0-D064		Duda	humic	Glufosinate-ammonium				2	6		2021
+D064-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-064	Z-T0-D064		Duda	humic	Glufosinate-ammonium				2	6		2021
+D071-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-071	S-T0-D071		Duda	compost	Glufosinate-ammonium				3	7		2021
+D071-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-071	Z-T0-D071		Duda	compost	Glufosinate-ammonium				3	7		2021
+D072-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-072	S-T0-D072		Duda	compost	None				3	7		2021
+D072-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-072	Z-T0-D072		Duda	compost	None				3	7		2021
+D073-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-073	S-T0-D073		Duda	compost	Glyphosate				3	7		2021
+D073-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-073	Z-T0-D073		Duda	compost	Glyphosate				3	7		2021
+D074-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-074	S-T0-D074		Duda	compost	Flumioxazin				3	7		2021
+D074-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-074	Z-T0-D074		Duda	compost	Flumioxazin				3	7		2021
+D081-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-081	S-T0-D081		Duda	humic	Glufosinate-ammonium				3	8		2021
+D081-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-081	Z-T0-D081		Duda	humic	Glufosinate-ammonium				3	8		2021
+D082-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-082	S-T0-D082		Duda	humic	None				3	8		2021
+D082-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-082	Z-T0-D082		Duda	humic	None				3	8		2021
+D083-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-083	S-T0-D083		Duda	humic	Glyphosate				3	8		2021
+D083-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-083	Z-T0-D083		Duda	humic	Glyphosate				3	8		2021
+D084-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-084	S-T0-D084		Duda	humic	Flumioxazin				3	8		2021
+D084-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-084	Z-T0-D084		Duda	humic	Flumioxazin				3	8		2021
+D091-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-091	S-T0-D091		Duda	control	Glufosinate-ammonium				3	9		2021
+D091-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-091	Z-T0-D091		Duda	control	Glufosinate-ammonium				3	9		2021
+D092-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-092	S-T0-D092		Duda	control	None				3	9		2021
+D092-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-092	Z-T0-D092		Duda	control	None				3	9		2021
+D093-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-093	S-T0-D093		Duda	control	Glyphosate				3	9		2021
+D093-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-093	Z-T0-D093		Duda	control	Glyphosate				3	9		2021
+D094-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-094	S-T0-D094		Duda	control	Flumioxazin				3	9		2021
+D094-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-094	Z-T0-D094		Duda	control	Flumioxazin				3	9		2021
+D101-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-101	S-T0-D101		Duda	humic	None				4	10		2021
+D101-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-101	Z-T0-D101		Duda	humic	None				4	10		2021
+D102-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-102	S-T0-D102		Duda	humic	Glufosinate-ammonium				4	10		2021
+D102-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-102	Z-T0-D102		Duda	humic	Glufosinate-ammonium				4	10		2021
+D103-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-103	S-T0-D103		Duda	humic	Flumioxazin				4	10		2021
+D103-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-103	Z-T0-D103		Duda	humic	Flumioxazin				4	10		2021
+D104-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-104	S-T0-D104		Duda	humic	Glyphosate				4	10		2021
+D104-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-104	Z-T0-D104		Duda	humic	Glyphosate				4	10		2021
+D111-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-111	S-T0-D111		Duda	compost	None				4	11		2021
+D111-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-111	Z-T0-D111		Duda	compost	None				4	11		2021
+D112-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-112	S-T0-D112		Duda	compost	Glufosinate-ammonium				4	11		2021
+D112-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-112	Z-T0-D112		Duda	compost	Glufosinate-ammonium				4	11		2021
+D113-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-113	S-T0-D113		Duda	compost	Flumioxazin				4	11		2021
+D113-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-113	Z-T0-D113		Duda	compost	Flumioxazin				4	11		2021
+D114-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-114	S-T0-D114		Duda	compost	Glyphosate				4	11		2021
+D114-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-114	Z-T0-D114		Duda	compost	Glyphosate				4	11		2021
+D121-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-121	S-T0-D121		Duda	control	None				4	12		2021
+D121-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-121	Z-T0-D121		Duda	control	None				4	12		2021
+D122-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-122	S-T0-D122		Duda	control	Glufosinate-ammonium				4	12		2021
+D122-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-122	Z-T0-D122		Duda	control	Glufosinate-ammonium				4	12		2021
+D123-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-123	S-T0-D123		Duda	control	Flumioxazin				4	12		2021
+D123-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-123	Z-T0-D123		Duda	control	Flumioxazin				4	12		2021
+D124-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-124	S-T0-D124		Duda	control	Glyphosate				4	12		2021
+D124-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-124	Z-T0-D124		Duda	control	Glyphosate				4	12		2021
+D131-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-131	S-T0-D131		Duda	humic	Glyphosate				5	13		2021
+D131-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-131	Z-T0-D131		Duda	humic	Glyphosate				5	13		2021
+D132-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-132	S-T0-D132		Duda	humic	Flumioxazin				5	13		2021
+D132-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-132	Z-T0-D132		Duda	humic	Flumioxazin				5	13		2021
+D133-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-133	S-T0-D133		Duda	humic	Glufosinate-ammonium				5	13		2021
+D133-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-133	Z-T0-D133		Duda	humic	Glufosinate-ammonium				5	13		2021
+D134-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-134	S-T0-D134		Duda	humic	None				5	13		2021
+D134-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-134	Z-T0-D134		Duda	humic	None				5	13		2021
+D141-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-141	S-T0-D141		Duda	control	Glyphosate				5	14		2021
+D141-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-141	Z-T0-D141		Duda	control	Glyphosate				5	14		2021
+D142-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-142	S-T0-D142		Duda	control	Flumioxazin				5	14		2021
+D142-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-142	Z-T0-D142		Duda	control	Flumioxazin				5	14		2021
+D143-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-143	S-T0-D143		Duda	control	Glufosinate-ammonium				5	14		2021
+D143-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-143	Z-T0-D143		Duda	control	Glufosinate-ammonium				5	14		2021
+D144-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-144	S-T0-D144		Duda	control	None				5	14		2021
+D144-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-144	Z-T0-D144		Duda	control	None				5	14		2021
+D151-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-151	S-T0-D151		Duda	compost	Glyphosate				5	15		2021
+D151-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-151	Z-T0-D151		Duda	compost	Glyphosate				5	15		2021
+D152-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-152	S-T0-D152		Duda	compost	Flumioxazin				5	15		2021
+D152-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-152	Z-T0-D152		Duda	compost	Flumioxazin				5	15		2021
+D153-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-153	S-T0-D153		Duda	compost	Glufosinate-ammonium				5	15		2021
+D153-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-153	Z-T0-D153		Duda	compost	Glufosinate-ammonium				5	15		2021
+D154-BT0	T0	Bulk_soil	Florida	FL_DUDA		D-154	S-T0-D154		Duda	compost	None				5	15		2021
+D154-RT0	T0	Rhizosphere	Florida	FL_DUDA		D-154	Z-T0-D154		Duda	compost	None				5	15		2021
+L-T0-D011	T0	Leaves	Florida	FL_DUDA	5/17/21	D-011	L-T0-D011		Duda	compost	None			Tree row	1	1		2021
+L-T0-D012	T0	Leaves	Florida	FL_DUDA	5/17/21	D-012	L-T0-D012		Duda	compost	Flumioxazin			Tree row	1	1		2021
+L-T0-D013	T0	Leaves	Florida	FL_DUDA	5/17/21	D-013	L-T0-D013		Duda	compost	Glufosinate-ammonium			Tree row	1	1		2021
+L-T0-D014	T0	Leaves	Florida	FL_DUDA	5/17/21	D-014	L-T0-D014		Duda	compost	Glyphosate			Tree row	1	1		2021
+L-T0-D021	T0	Leaves	Florida	FL_DUDA	5/17/21	D-021	L-T0-D021		Duda	control	None			Tree row	1	2		2021
+L-T0-D022	T0	Leaves	Florida	FL_DUDA	5/17/21	D-022	L-T0-D022		Duda	control	Flumioxazin			Tree row	1	2		2021
+L-T0-D023	T0	Leaves	Florida	FL_DUDA	5/17/21	D-023	L-T0-D023		Duda	control	Glufosinate-ammonium			Tree row	1	2		2021
+L-T0-D024	T0	Leaves	Florida	FL_DUDA	5/17/21	D-024	L-T0-D024		Duda	control	Glyphosate			Tree row	1	2		2021
+L-T0-D031	T0	Leaves	Florida	FL_DUDA	5/17/21	D-031	L-T0-D031		Duda	humic	None			Tree row	1	3		2021
+L-T0-D032	T0	Leaves	Florida	FL_DUDA	5/17/21	D-032	L-T0-D032		Duda	humic	Flumioxazin			Tree row	1	3		2021
+L-T0-D033	T0	Leaves	Florida	FL_DUDA	5/17/21	D-033	L-T0-D033		Duda	humic	Glufosinate-ammonium			Tree row	1	3		2021
+L-T0-D034	T0	Leaves	Florida	FL_DUDA	5/17/21	D-034	L-T0-D034		Duda	humic	Glyphosate			Tree row	1	3		2021
+L-T0-D041	T0	Leaves	Florida	FL_DUDA	5/17/21	D-041	L-T0-D041		Duda	control	Flumioxazin			Tree row	2	4		2021
+L-T0-D042	T0	Leaves	Florida	FL_DUDA	5/17/21	D-042	L-T0-D042		Duda	control	Glyphosate			Tree row	2	4		2021
+L-T0-D043	T0	Leaves	Florida	FL_DUDA	5/17/21	D-043	L-T0-D043		Duda	control	None			Tree row	2	4		2021
+L-T0-D044	T0	Leaves	Florida	FL_DUDA	5/17/21	D-044	L-T0-D044		Duda	control	Glufosinate-ammonium			Tree row	2	4		2021
+L-T0-D051	T0	Leaves	Florida	FL_DUDA	5/17/21	D-051	L-T0-D051		Duda	compost	Flumioxazin			Tree row	2	5		2021
+L-T0-D052	T0	Leaves	Florida	FL_DUDA	5/17/21	D-052	L-T0-D052		Duda	compost	Glyphosate			Tree row	2	5		2021
+L-T0-D053	T0	Leaves	Florida	FL_DUDA	5/17/21	D-053	L-T0-D053		Duda	compost	None			Tree row	2	5		2021
+L-T0-D054	T0	Leaves	Florida	FL_DUDA	5/17/21	D-054	L-T0-D054		Duda	compost	Glufosinate-ammonium			Tree row	2	5		2021
+L-T0-D061	T0	Leaves	Florida	FL_DUDA	5/17/21	D-061	L-T0-D061		Duda	humic	Flumioxazin			Tree row	2	6		2021
+L-T0-D062	T0	Leaves	Florida	FL_DUDA	5/17/21	D-062	L-T0-D062		Duda	humic	Glyphosate			Tree row	2	6		2021
+L-T0-D063	T0	Leaves	Florida	FL_DUDA	5/17/21	D-063	L-T0-D063		Duda	humic	None			Tree row	2	6		2021
+L-T0-D064	T0	Leaves	Florida	FL_DUDA	5/17/21	D-064	L-T0-D064		Duda	humic	Glufosinate-ammonium			Tree row	2	6		2021
+L-T0-D071	T0	Leaves	Florida	FL_DUDA	5/17/21	D-071	L-T0-D071		Duda	compost	Glufosinate-ammonium			Tree row	3	7		2021
+L-T0-D072	T0	Leaves	Florida	FL_DUDA	5/17/21	D-072	L-T0-D072		Duda	compost	None			Tree row	3	7		2021
+L-T0-D073	T0	Leaves	Florida	FL_DUDA	5/17/21	D-073	L-T0-D073		Duda	compost	Glyphosate			Tree row	3	7		2021
+L-T0-D074	T0	Leaves	Florida	FL_DUDA	5/17/21	D-074	L-T0-D074		Duda	compost	Flumioxazin			Tree row	3	7		2021
+L-T0-D081	T0	Leaves	Florida	FL_DUDA	5/17/21	D-081	L-T0-D081		Duda	humic	Glufosinate-ammonium			Tree row	3	8		2021
+L-T0-D082	T0	Leaves	Florida	FL_DUDA	5/17/21	D-082	L-T0-D082		Duda	humic	None			Tree row	3	8		2021
+L-T0-D083	T0	Leaves	Florida	FL_DUDA	5/17/21	D-083	L-T0-D083		Duda	humic	Glyphosate			Tree row	3	8		2021
+L-T0-D084	T0	Leaves	Florida	FL_DUDA	5/17/21	D-084	L-T0-D084		Duda	humic	Flumioxazin			Tree row	3	8		2021
+L-T0-D091	T0	Leaves	Florida	FL_DUDA	5/17/21	D-091	L-T0-D091		Duda	control	Glufosinate-ammonium			Tree row	3	9		2021
+L-T0-D092	T0	Leaves	Florida	FL_DUDA	5/17/21	D-092	L-T0-D092		Duda	control	None			Tree row	3	9		2021
+L-T0-D093	T0	Leaves	Florida	FL_DUDA	5/17/21	D-093	L-T0-D093		Duda	control	Glyphosate			Tree row	3	9		2021
+L-T0-D094	T0	Leaves	Florida	FL_DUDA	5/17/21	D-094	L-T0-D094		Duda	control	Flumioxazin			Tree row	3	9		2021
+L-T0-D101	T0	Leaves	Florida	FL_DUDA	5/17/21	D-101	L-T0-D101		Duda	humic	None			Tree row	4	10		2021
+L-T0-D102	T0	Leaves	Florida	FL_DUDA	5/17/21	D-102	L-T0-D102		Duda	humic	Glufosinate-ammonium			Tree row	4	10		2021
+L-T0-D103	T0	Leaves	Florida	FL_DUDA	5/17/21	D-103	L-T0-D103		Duda	humic	Flumioxazin			Tree row	4	10		2021
+L-T0-D104	T0	Leaves	Florida	FL_DUDA	5/17/21	D-104	L-T0-D104		Duda	humic	Glyphosate			Tree row	4	10		2021
+L-T0-D111	T0	Leaves	Florida	FL_DUDA	5/17/21	D-111	L-T0-D111		Duda	compost	None			Tree row	4	11		2021
+L-T0-D112	T0	Leaves	Florida	FL_DUDA	5/17/21	D-112	L-T0-D112		Duda	compost	Glufosinate-ammonium			Tree row	4	11		2021
+L-T0-D113	T0	Leaves	Florida	FL_DUDA	5/17/21	D-113	L-T0-D113		Duda	compost	Flumioxazin			Tree row	4	11		2021
+L-T0-D114	T0	Leaves	Florida	FL_DUDA	5/17/21	D-114	L-T0-D114		Duda	compost	Glyphosate			Tree row	4	11		2021
+L-T0-D121	T0	Leaves	Florida	FL_DUDA	5/17/21	D-121	L-T0-D121		Duda	control	None			Tree row	4	12		2021
+L-T0-D122	T0	Leaves	Florida	FL_DUDA	5/17/21	D-122	L-T0-D122		Duda	control	Glufosinate-ammonium			Tree row	4	12		2021
+L-T0-D123	T0	Leaves	Florida	FL_DUDA	5/17/21	D-123	L-T0-D123		Duda	control	Flumioxazin			Tree row	4	12		2021
+L-T0-D124	T0	Leaves	Florida	FL_DUDA	5/17/21	D-124	L-T0-D124		Duda	control	Glyphosate			Tree row	4	12		2021
+L-T0-D131	T0	Leaves	Florida	FL_DUDA	5/17/21	D-131	L-T0-D131		Duda	humic	Glyphosate			Tree row	5	13		2021
+L-T0-D132	T0	Leaves	Florida	FL_DUDA	5/17/21	D-132	L-T0-D132		Duda	humic	Flumioxazin			Tree row	5	13		2021
+L-T0-D133	T0	Leaves	Florida	FL_DUDA	5/17/21	D-133	L-T0-D133		Duda	humic	Glufosinate-ammonium			Tree row	5	13		2021
+L-T0-D134	T0	Leaves	Florida	FL_DUDA	5/17/21	D-134	L-T0-D134		Duda	humic	None			Tree row	5	13		2021
+L-T0-D141	T0	Leaves	Florida	FL_DUDA	5/17/21	D-141	L-T0-D141		Duda	control	Glyphosate			Tree row	5	14		2021
+L-T0-D142	T0	Leaves	Florida	FL_DUDA	5/17/21	D-142	L-T0-D142		Duda	control	Flumioxazin			Tree row	5	14		2021
+L-T0-D143	T0	Leaves	Florida	FL_DUDA	5/17/21	D-143	L-T0-D143		Duda	control	Glufosinate-ammonium			Tree row	5	14		2021
+L-T0-D144	T0	Leaves	Florida	FL_DUDA	5/17/21	D-144	L-T0-D144		Duda	control	None			Tree row	5	14		2021
+L-T0-D151	T0	Leaves	Florida	FL_DUDA	5/17/21	D-151	L-T0-D151		Duda	compost	Glyphosate			Tree row	5	15		2021
+L-T0-D152	T0	Leaves	Florida	FL_DUDA	5/17/21	D-152	L-T0-D152		Duda	compost	Flumioxazin			Tree row	5	15		2021
+L-T0-D153	T0	Leaves	Florida	FL_DUDA	5/17/21	D-153	L-T0-D153		Duda	compost	Glufosinate-ammonium			Tree row	5	15		2021
+L-T0-D154	T0	Leaves	Florida	FL_DUDA	5/17/21	D-154	L-T0-D154		Duda	compost	None			Tree row	5	15		2021
+L-T0-LB011	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-011	L-T0-LB011		Larry Black	Cover_crop	Glyphosate			Tree row			2_1	2021
+LB011-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-011	S-T0-LB011		Larry Black	Cover_crop	Glyphosate						2_1	2021
+LB011-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-011	Z-T0-LB011		Larry Black	Cover_crop	Glyphosate						2_1	2021
+R-T0-LB011	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-011	R-T0-LB011		Larry Black	Cover_crop	Glyphosate			Tree row			2_1	2021
+L-T1-LB011	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-011	L-T1-LB011		Larry Black	Cover_crop	Glyphosate			Tree row			2_1	2022
+LB011-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-011	S-T1-LB011		Larry Black	Cover_crop	Glyphosate						2_1	2022
+LB011-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-011	Z-T1-LB011		Larry Black	Cover_crop	Glyphosate						2_1	2022
+R-T1-LB011	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-011	R-T1-LB011		Larry Black	Cover_crop	Glyphosate			Tree row			2_1	2022
+L-T2-LB011	T2	Leaves	Florida	FL_Larry_Black		LB-011	L-T2-LB011		Larry Black	Cover_crop	Glyphosate						2_1	2023
+R-T2-LB011	T2	Roots	Florida	FL_Larry_Black		LB-011	R-T2-LB011		Larry Black	Cover_crop	Glyphosate						2_1	2023
+S-T2-LB011	T2	Bulk_soil	Florida	FL_Larry_Black		LB-011	S-T2-LB011		Larry Black	Cover_crop	Glyphosate						2_1	2023
+Z-T2-LB011	T2	Rhizosphere	Florida	FL_Larry_Black		LB-011	Z-T2-LB011		Larry Black	Cover_crop	Glyphosate						2_1	2023
+L-T0-LB012	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-012	L-T0-LB012		Larry Black	Cover_crop	Alternative			Tree row			2_2	2021
+LB012-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-012	S-T0-LB012		Larry Black	Cover_crop	Alternative						2_2	2021
+LB012-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-012	Z-T0-LB012		Larry Black	Cover_crop	Alternative						2_2	2021
+R-T0-LB012	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-012	R-T0-LB012		Larry Black	Cover_crop	Alternative			Tree row			2_2	2021
+L-T1-LB012	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-012	L-T1-LB012		Larry Black	Cover_crop	Alternative			Tree row			2_2	2022
+LB012-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-012	S-T1-LB012		Larry Black	Cover_crop	Alternative						2_2	2022
+LB012-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-012	Z-T1-LB012		Larry Black	Cover_crop	Alternative						2_2	2022
+R-T1-LB012	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-012	R-T1-LB012		Larry Black	Cover_crop	Alternative			Tree row			2_2	2022
+L-T2-LB012	T2	Leaves	Florida	FL_Larry_Black		LB-012	L-T2-LB012		Larry Black	Cover_crop	Alternative						2_2	2023
+R-T2-LB012	T2	Roots	Florida	FL_Larry_Black		LB-012	R-T2-LB012		Larry Black	Cover_crop	Alternative						2_2	2023
+S-T2-LB012	T2	Bulk_soil	Florida	FL_Larry_Black		LB-012	S-T2-LB012		Larry Black	Cover_crop	Alternative						2_2	2023
+Z-T2-LB012	T2	Rhizosphere	Florida	FL_Larry_Black		LB-012	Z-T2-LB012		Larry Black	Cover_crop	Alternative						2_2	2023
+L-T0-LB021	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-021	L-T0-LB021		Larry Black	Control	Alternative			Tree row			5_1	2021
+LB021-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-021	S-T0-LB021		Larry Black	Control	Alternative						5_1	2021
+LB021-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-021	Z-T0-LB021		Larry Black	Control	Alternative						5_1	2021
+R-T0-LB021	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-021	R-T0-LB021		Larry Black	Control	Alternative			Tree row			5_1	2021
+L-T1-LB021	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-021	L-T1-LB021		Larry Black	Control	Alternative			Tree row			5_1	2022
+LB021-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-021	S-T1-LB021		Larry Black	Control	Alternative						5_1	2022
+LB021-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-021	Z-T1-LB021		Larry Black	Control	Alternative						5_1	2022
+R-T1-LB021	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-021	R-T1-LB021		Larry Black	Control	Alternative			Tree row			5_1	2022
+L-T2-LB021	T2	Leaves	Florida	FL_Larry_Black		LB-021	L-T2-LB021		Larry Black	Control	Alternative						5_1	2023
+R-T2-LB021	T2	Roots	Florida	FL_Larry_Black		LB-021	R-T2-LB021		Larry Black	Control	Alternative						5_1	2023
+S-T2-LB021	T2	Bulk_soil	Florida	FL_Larry_Black		LB-021	S-T2-LB021		Larry Black	Control	Alternative						5_1	2023
+Z-T2-LB021	T2	Rhizosphere	Florida	FL_Larry_Black		LB-021	Z-T2-LB021		Larry Black	Control	Alternative						5_1	2023
+L-T0-LB022	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-022	L-T0-LB022		Larry Black	Control	Glyphosate			Tree row			5_2	2021
+LB022-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-022	S-T0-LB022		Larry Black	Control	Glyphosate						5_2	2021
+LB022-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-022	Z-T0-LB022		Larry Black	Control	Glyphosate						5_2	2021
+R-T0-LB022	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-022	R-T0-LB022		Larry Black	Control	Glyphosate			Tree row			5_2	2021
+L-T1-LB022	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-022	L-T1-LB022		Larry Black	Control	Glyphosate			Tree row			5_2	2022
+LB022-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-022	S-T1-LB022		Larry Black	Control	Glyphosate						5_2	2022
+LB022-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-022	Z-T1-LB022		Larry Black	Control	Glyphosate						5_2	2022
+R-T1-LB022	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-022	R-T1-LB022		Larry Black	Control	Glyphosate			Tree row			5_2	2022
+L-T2-LB022	T2	Leaves	Florida	FL_Larry_Black		LB-022	L-T2-LB022		Larry Black	Control	Glyphosate						5_2	2023
+R-T2-LB022	T2	Roots	Florida	FL_Larry_Black		LB-022	R-T2-LB022		Larry Black	Control	Glyphosate						5_2	2023
+S-T2-LB022	T2	Bulk_soil	Florida	FL_Larry_Black		LB-022	S-T2-LB022		Larry Black	Control	Glyphosate						5_2	2023
+Z-T2-LB022	T2	Rhizosphere	Florida	FL_Larry_Black		LB-022	Z-T2-LB022		Larry Black	Control	Glyphosate						5_2	2023
+L-T0-LB031	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-031	L-T0-LB031		Larry Black	Cover_crop	Alternative			Tree row			8_1	2021
+LB031-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-031	S-T0-LB031		Larry Black	Cover_crop	Alternative						8_1	2021
+LB031-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-031	Z-T0-LB031		Larry Black	Cover_crop	Alternative						8_1	2021
+R-T0-LB031	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-031	R-T0-LB031		Larry Black	Cover_crop	Alternative			Tree row			8_1	2021
+L-T1-LB031	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-031	L-T1-LB031		Larry Black	Cover_crop	Alternative			Tree row			8_1	2022
+LB031-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-031	S-T1-LB031		Larry Black	Cover_crop	Alternative						8_1	2022
+LB031-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-031	Z-T1-LB031		Larry Black	Cover_crop	Alternative						8_1	2022
+R-T1-LB031	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-031	R-T1-LB031		Larry Black	Cover_crop	Alternative			Tree row			8_1	2022
+R-T0-D011	T0	Roots	Florida	FL_DUDA	5/17/21	D-011	R-T0-D011		Duda	compost	None			Tree row	1	1		2021
+R-T0-D012	T0	Roots	Florida	FL_DUDA	5/17/21	D-012	R-T0-D012		Duda	compost	Flumioxazin			Tree row	1	1		2021
+R-T0-D013	T0	Roots	Florida	FL_DUDA	5/17/21	D-013	R-T0-D013		Duda	compost	Glufosinate-ammonium			Tree row	1	1		2021
+R-T0-D014	T0	Roots	Florida	FL_DUDA	5/17/21	D-014	R-T0-D014		Duda	compost	Glyphosate			Tree row	1	1		2021
+R-T0-D021	T0	Roots	Florida	FL_DUDA	5/17/21	D-021	R-T0-D021		Duda	control	None			Tree row	1	2		2021
+R-T0-D022	T0	Roots	Florida	FL_DUDA	5/17/21	D-022	R-T0-D022		Duda	control	Flumioxazin			Tree row	1	2		2021
+R-T0-D023	T0	Roots	Florida	FL_DUDA	5/17/21	D-023	R-T0-D023		Duda	control	Glufosinate-ammonium			Tree row	1	2		2021
+R-T0-D024	T0	Roots	Florida	FL_DUDA	5/17/21	D-024	R-T0-D024		Duda	control	Glyphosate			Tree row	1	2		2021
+R-T0-D031	T0	Roots	Florida	FL_DUDA	5/17/21	D-031	R-T0-D031		Duda	humic	None			Tree row	1	3		2021
+R-T0-D032	T0	Roots	Florida	FL_DUDA	5/17/21	D-032	R-T0-D032		Duda	humic	Flumioxazin			Tree row	1	3		2021
+R-T0-D033	T0	Roots	Florida	FL_DUDA	5/17/21	D-033	R-T0-D033		Duda	humic	Glufosinate-ammonium			Tree row	1	3		2021
+R-T0-D034	T0	Roots	Florida	FL_DUDA	5/17/21	D-034	R-T0-D034		Duda	humic	Glyphosate			Tree row	1	3		2021
+R-T0-D041	T0	Roots	Florida	FL_DUDA	5/17/21	D-041	R-T0-D041		Duda	control	Flumioxazin			Tree row	2	4		2021
+R-T0-D042	T0	Roots	Florida	FL_DUDA	5/17/21	D-042	R-T0-D042		Duda	control	Glyphosate			Tree row	2	4		2021
+R-T0-D043	T0	Roots	Florida	FL_DUDA	5/17/21	D-043	R-T0-D043		Duda	control	None			Tree row	2	4		2021
+R-T0-D044	T0	Roots	Florida	FL_DUDA	5/17/21	D-044	R-T0-D044		Duda	control	Glufosinate-ammonium			Tree row	2	4		2021
+R-T0-D051	T0	Roots	Florida	FL_DUDA	5/17/21	D-051	R-T0-D051		Duda	compost	Flumioxazin			Tree row	2	5		2021
+R-T0-D052	T0	Roots	Florida	FL_DUDA	5/17/21	D-052	R-T0-D052		Duda	compost	Glyphosate			Tree row	2	5		2021
+R-T0-D053	T0	Roots	Florida	FL_DUDA	5/17/21	D-053	R-T0-D053		Duda	compost	None			Tree row	2	5		2021
+R-T0-D054	T0	Roots	Florida	FL_DUDA	5/17/21	D-054	R-T0-D054		Duda	compost	Glufosinate-ammonium			Tree row	2	5		2021
+R-T0-D061	T0	Roots	Florida	FL_DUDA	5/17/21	D-061	R-T0-D061		Duda	humic	Flumioxazin			Tree row	2	6		2021
+R-T0-D062	T0	Roots	Florida	FL_DUDA	5/17/21	D-062	R-T0-D062		Duda	humic	Glyphosate			Tree row	2	6		2021
+R-T0-D063	T0	Roots	Florida	FL_DUDA	5/17/21	D-063	R-T0-D063		Duda	humic	None			Tree row	2	6		2021
+R-T0-D064	T0	Roots	Florida	FL_DUDA	5/17/21	D-064	R-T0-D064		Duda	humic	Glufosinate-ammonium			Tree row	2	6		2021
+R-T0-D071	T0	Roots	Florida	FL_DUDA	5/17/21	D-071	R-T0-D071		Duda	compost	Glufosinate-ammonium			Tree row	3	7		2021
+R-T0-D072	T0	Roots	Florida	FL_DUDA	5/17/21	D-072	R-T0-D072		Duda	compost	None			Tree row	3	7		2021
+R-T0-D073	T0	Roots	Florida	FL_DUDA	5/17/21	D-073	R-T0-D073		Duda	compost	Glyphosate			Tree row	3	7		2021
+R-T0-D074	T0	Roots	Florida	FL_DUDA	5/17/21	D-074	R-T0-D074		Duda	compost	Flumioxazin			Tree row	3	7		2021
+R-T0-D081	T0	Roots	Florida	FL_DUDA	5/17/21	D-081	R-T0-D081		Duda	humic	Glufosinate-ammonium			Tree row	3	8		2021
+R-T0-D082	T0	Roots	Florida	FL_DUDA	5/17/21	D-082	R-T0-D082		Duda	humic	None			Tree row	3	8		2021
+R-T0-D083	T0	Roots	Florida	FL_DUDA	5/17/21	D-083	R-T0-D083		Duda	humic	Glyphosate			Tree row	3	8		2021
+R-T0-D084	T0	Roots	Florida	FL_DUDA	5/17/21	D-084	R-T0-D084		Duda	humic	Flumioxazin			Tree row	3	8		2021
+R-T0-D091	T0	Roots	Florida	FL_DUDA	5/17/21	D-091	R-T0-D091		Duda	control	Glufosinate-ammonium			Tree row	3	9		2021
+R-T0-D092	T0	Roots	Florida	FL_DUDA	5/17/21	D-092	R-T0-D092		Duda	control	None			Tree row	3	9		2021
+R-T0-D093	T0	Roots	Florida	FL_DUDA	5/17/21	D-093	R-T0-D093		Duda	control	Glyphosate			Tree row	3	9		2021
+R-T0-D094	T0	Roots	Florida	FL_DUDA	5/17/21	D-094	R-T0-D094		Duda	control	Flumioxazin			Tree row	3	9		2021
+R-T0-D101	T0	Roots	Florida	FL_DUDA	5/17/21	D-101	R-T0-D101		Duda	humic	None			Tree row	4	10		2021
+R-T0-D102	T0	Roots	Florida	FL_DUDA	5/17/21	D-102	R-T0-D102		Duda	humic	Glufosinate-ammonium			Tree row	4	10		2021
+R-T0-D103	T0	Roots	Florida	FL_DUDA	5/17/21	D-103	R-T0-D103		Duda	humic	Flumioxazin			Tree row	4	10		2021
+R-T0-D104	T0	Roots	Florida	FL_DUDA	5/17/21	D-104	R-T0-D104		Duda	humic	Glyphosate			Tree row	4	10		2021
+R-T0-D111	T0	Roots	Florida	FL_DUDA	5/17/21	D-111	R-T0-D111		Duda	compost	None			Tree row	4	11		2021
+R-T0-D112	T0	Roots	Florida	FL_DUDA	5/17/21	D-112	R-T0-D112		Duda	compost	Glufosinate-ammonium			Tree row	4	11		2021
+R-T0-D113	T0	Roots	Florida	FL_DUDA	5/17/21	D-113	R-T0-D113		Duda	compost	Flumioxazin			Tree row	4	11		2021
+R-T0-D114	T0	Roots	Florida	FL_DUDA	5/17/21	D-114	R-T0-D114		Duda	compost	Glyphosate			Tree row	4	11		2021
+R-T0-D121	T0	Roots	Florida	FL_DUDA	5/17/21	D-121	R-T0-D121		Duda	control	None			Tree row	4	12		2021
+R-T0-D122	T0	Roots	Florida	FL_DUDA	5/17/21	D-122	R-T0-D122		Duda	control	Glufosinate-ammonium			Tree row	4	12		2021
+R-T0-D123	T0	Roots	Florida	FL_DUDA	5/17/21	D-123	R-T0-D123		Duda	control	Flumioxazin			Tree row	4	12		2021
+R-T0-D124	T0	Roots	Florida	FL_DUDA	5/17/21	D-124	R-T0-D124		Duda	control	Glyphosate			Tree row	4	12		2021
+R-T0-D131	T0	Roots	Florida	FL_DUDA	5/17/21	D-131	R-T0-D131		Duda	humic	Glyphosate			Tree row	5	13		2021
+R-T0-D132	T0	Roots	Florida	FL_DUDA	5/17/21	D-132	R-T0-D132		Duda	humic	Flumioxazin			Tree row	5	13		2021
+R-T0-D133	T0	Roots	Florida	FL_DUDA	5/17/21	D-133	R-T0-D133		Duda	humic	Glufosinate-ammonium			Tree row	5	13		2021
+R-T0-D134	T0	Roots	Florida	FL_DUDA	5/17/21	D-134	R-T0-D134		Duda	humic	None			Tree row	5	13		2021
+R-T0-D141	T0	Roots	Florida	FL_DUDA	5/17/21	D-141	R-T0-D141		Duda	control	Glyphosate			Tree row	5	14		2021
+R-T0-D142	T0	Roots	Florida	FL_DUDA	5/17/21	D-142	R-T0-D142		Duda	control	Flumioxazin			Tree row	5	14		2021
+R-T0-D143	T0	Roots	Florida	FL_DUDA	5/17/21	D-143	R-T0-D143		Duda	control	Glufosinate-ammonium			Tree row	5	14		2021
+R-T0-D144	T0	Roots	Florida	FL_DUDA	5/17/21	D-144	R-T0-D144		Duda	control	None			Tree row	5	14		2021
+R-T0-D151	T0	Roots	Florida	FL_DUDA	5/17/21	D-151	R-T0-D151		Duda	compost	Glyphosate			Tree row	5	15		2021
+R-T0-D152	T0	Roots	Florida	FL_DUDA	5/17/21	D-152	R-T0-D152		Duda	compost	Flumioxazin			Tree row	5	15		2021
+R-T0-D153	T0	Roots	Florida	FL_DUDA	5/17/21	D-153	R-T0-D153		Duda	compost	Glufosinate-ammonium			Tree row	5	15		2021
+R-T0-D154	T0	Roots	Florida	FL_DUDA	5/17/21	D-154	R-T0-D154		Duda	compost	None			Tree row	5	15		2021
+L-T2-LB031	T2	Leaves	Florida	FL_Larry_Black		LB-031	L-T2-LB031		Larry Black	Cover_crop	Alternative						8_1	2023
+R-T2-LB031	T2	Roots	Florida	FL_Larry_Black		LB-031	R-T2-LB031		Larry Black	Cover_crop	Alternative						8_1	2023
+S-T2-LB031	T2	Bulk_soil	Florida	FL_Larry_Black		LB-031	S-T2-LB031		Larry Black	Cover_crop	Alternative						8_1	2023
+Z-T2-LB031	T2	Rhizosphere	Florida	FL_Larry_Black		LB-031	Z-T2-LB031		Larry Black	Cover_crop	Alternative						8_1	2023
+L-T0-LB032	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-032	L-T0-LB032		Larry Black	Cover_crop	Glyphosate			Tree row			8_2	2021
+LB032-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-032	S-T0-LB032		Larry Black	Cover_crop	Glyphosate						8_2	2021
+LB032-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-032	Z-T0-LB032		Larry Black	Cover_crop	Glyphosate						8_2	2021
+R-T0-LB032	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-032	R-T0-LB032		Larry Black	Cover_crop	Glyphosate			Tree row			8_2	2021
+L-T1-LB032	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-032	L-T1-LB032		Larry Black	Cover_crop	Glyphosate			Tree row			8_2	2022
+LB032-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-032	S-T1-LB032		Larry Black	Cover_crop	Glyphosate						8_2	2022
+LB032-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-032	Z-T1-LB032		Larry Black	Cover_crop	Glyphosate						8_2	2022
+R-T1-LB032	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-032	R-T1-LB032		Larry Black	Cover_crop	Glyphosate			Tree row			8_2	2022
+L-T2-LB032	T2	Leaves	Florida	FL_Larry_Black		LB-032	L-T2-LB032		Larry Black	Cover_crop	Glyphosate						8_2	2023
+R-T2-LB032	T2	Roots	Florida	FL_Larry_Black		LB-032	R-T2-LB032		Larry Black	Cover_crop	Glyphosate						8_2	2023
+S-T2-LB032	T2	Bulk_soil	Florida	FL_Larry_Black		LB-032	S-T2-LB032		Larry Black	Cover_crop	Glyphosate						8_2	2023
+Z-T2-LB032	T2	Rhizosphere	Florida	FL_Larry_Black		LB-032	Z-T2-LB032		Larry Black	Cover_crop	Glyphosate						8_2	2023
+D011-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-011	S-T1-D011		Duda	compost	None				1	1		2022
+D011-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-011	Z-T1-D011		Duda	compost	None				1	1		2022
+D012-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-012	Z-T1-D012		Duda	compost	Flumioxazin				1	1		2022
+D013-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-013	S-T1-D013		Duda	compost	Glufosinate-ammonium				1	1		2022
+D013-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-013	Z-T1-D013		Duda	compost	Glufosinate-ammonium				1	1		2022
+D014-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-014	S-T1-D014		Duda	compost	Glyphosate				1	1		2022
+D014-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-014	Z-T1-D014		Duda	compost	Glyphosate				1	1		2022
+D021-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-021	S-T1-D021		Duda	control	None				1	2		2022
+D021-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-021	Z-T1-D021		Duda	control	None				1	2		2022
+D022-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-022	S-T1-D022		Duda	control	Flumioxazin				1	2		2022
+D022-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-022	Z-T1-D022		Duda	control	Flumioxazin				1	2		2022
+D023-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-023	S-T1-D023		Duda	control	Glufosinate-ammonium				1	2		2022
+D023-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-023	Z-T1-D023		Duda	control	Glufosinate-ammonium				1	2		2022
+D024-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-024	S-T1-D024		Duda	control	Glyphosate				1	2		2022
+D024-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-024	Z-T1-D024		Duda	control	Glyphosate				1	2		2022
+D031-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-031	S-T1-D031		Duda	humic	None				1	3		2022
+D031-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-031	Z-T1-D031		Duda	humic	None				1	3		2022
+D032-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-032	S-T1-D032		Duda	humic	Flumioxazin				1	3		2022
+D032-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-032	Z-T1-D032		Duda	humic	Flumioxazin				1	3		2022
+D033-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-033	S-T1-D033		Duda	humic	Glufosinate-ammonium				1	3		2022
+D033-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-033	Z-T1-D033		Duda	humic	Glufosinate-ammonium				1	3		2022
+D033-RT1-REDO	T1	Rhizosphere	Florida	FL_DUDA		D-033	Z-T1-D033		Duda	humic	Glufosinate-ammonium				1	3		2022
+D034-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-034	S-T1-D034		Duda	humic	Glyphosate				1	3		2022
+D034-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-034	Z-T1-D034		Duda	humic	Glyphosate				1	3		2022
+D041-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-041	S-T1-D041		Duda	control	Flumioxazin				2	4		2022
+D041-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-041	Z-T1-D041		Duda	control	Flumioxazin				2	4		2022
+D042-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-042	S-T1-D042		Duda	control	Glyphosate				2	4		2022
+D042-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-042	Z-T1-D042		Duda	control	Glyphosate				2	4		2022
+D043-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-043	S-T1-D043		Duda	control	None				2	4		2022
+D043-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-043	Z-T1-D043		Duda	control	None				2	4		2022
+D044-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-044	S-T1-D044		Duda	control	Glufosinate-ammonium				2	4		2022
+D044-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-044	Z-T1-D044		Duda	control	Glufosinate-ammonium				2	4		2022
+D051-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-051	S-T1-D051		Duda	compost	Flumioxazin				2	5		2022
+D051-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-051	Z-T1-D051		Duda	compost	Flumioxazin				2	5		2022
+D051-RT1-REDO	T1	Rhizosphere	Florida	FL_DUDA		D-051	Z-T1-D051		Duda	compost	Glyphosate				2	5		2022
+D052-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-052	S-T1-D052		Duda	compost	Glyphosate				2	5		2022
+D052-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-052	Z-T1-D052		Duda	compost	None				2	5		2022
+D053-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-053	S-T1-D053		Duda	compost	None				2	5		2022
+D053-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-053	Z-T1-D053		Duda	compost	Glufosinate-ammonium				2	5		2022
+D054-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-054	S-T1-D054		Duda	compost	Glufosinate-ammonium				2	5		2022
+D054-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-054	Z-T1-D054		Duda	humic	Flumioxazin				2	6		2022
+D061-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-061	S-T1-D061		Duda	humic	Flumioxazin				2	6		2022
+D062-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-062	S-T1-D062		Duda	humic	Glyphosate				2	6		2022
+D062-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-062	Z-T1-D062		Duda	humic	Glyphosate				2	6		2022
+D063-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-063	S-T1-D063		Duda	humic	None				2	6		2022
+D063-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-063	Z-T1-D063		Duda	humic	None				2	6		2022
+D064-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-064	S-T1-D064		Duda	humic	Glufosinate-ammonium				2	6		2022
+D064-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-064	Z-T1-D064		Duda	humic	Glufosinate-ammonium				2	6		2022
+D071-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-071	S-T1-D071		Duda	compost	Glufosinate-ammonium				3	7		2022
+D071-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-071	Z-T1-D071		Duda	compost	Glufosinate-ammonium				3	7		2022
+D072-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-072	S-T1-D072		Duda	compost	None							2022
+D072-BT1-REDO	T1	Bulk_soil	Florida	FL_DUDA		D-072	S-T1-D072		Duda	compost	None				3	7		2022
+D072-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-072	Z-T1-D072		Duda	compost	None				3	7		2022
+D073-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-073	S-T1-D073		Duda	compost	Glyphosate				3	7		2022
+D073-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-073	Z-T1-D073		Duda	compost	Glyphosate				3	7		2022
+D074-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-074	S-T1-D074		Duda	compost	Flumioxazin				3	7		2022
+D074-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-074	Z-T1-D074		Duda	compost	Flumioxazin				3	7		2022
+D081-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-081	S-T1-D081		Duda	humic	Glufosinate-ammonium				3	8		2022
+D081-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-081	Z-T1-D081		Duda	humic	Glufosinate-ammonium				3	8		2022
+D082-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-082	S-T1-D082		Duda	humic	None				3	8		2022
+D082-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-082	Z-T1-D082		Duda	humic	None				3	8		2022
+D083-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-083	S-T1-D083		Duda	humic	Glyphosate				3	8		2022
+D083-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-083	Z-T1-D083		Duda	humic	Glyphosate				3	8		2022
+D084-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-084	S-T1-D084		Duda	humic	Flumioxazin				3	8		2022
+D084-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-084	Z-T1-D084		Duda	humic	Flumioxazin				3	8		2022
+D091-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-091	S-T1-D091		Duda	control	Glufosinate-ammonium				3	9		2022
+D091-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-091	Z-T1-D091		Duda	control	Glufosinate-ammonium				3	9		2022
+D092-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-092	S-T1-D092		Duda	control	None				3	9		2022
+D092-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-092	Z-T1-D092		Duda	control	None				3	9		2022
+D093-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-093	S-T1-D093		Duda	control	Glyphosate				3	9		2022
+D093-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-093	Z-T1-D093		Duda	control	Glyphosate				3	9		2022
+D094-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-094	S-T1-D094		Duda	control	Flumioxazin				3	9		2022
+D094-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-094	Z-T1-D094		Duda	control	Flumioxazin				3	9		2022
+D101-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-101	S-T1-D101		Duda	humic	None				4	10		2022
+D101-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-101	Z-T1-D101		Duda	humic	None				4	10		2022
+D102-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-102	S-T1-D102		Duda	humic	Glufosinate-ammonium				4	10		2022
+D102-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-102	Z-T1-D102		Duda	humic	Glufosinate-ammonium				4	10		2022
+D103-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-103	S-T1-D103		Duda	humic	Flumioxazin				4	10		2022
+D103-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-103	Z-T1-D103		Duda	humic	Flumioxazin				4	10		2022
+D104-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-104	S-T1-D104		Duda	humic	Glyphosate				4	10		2022
+D104-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-104	Z-T1-D104		Duda	humic	Glyphosate				4	10		2022
+D111-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-111	S-T1-D111		Duda	compost	None				4	11		2022
+D111-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-111	Z-T1-D111		Duda	compost	None				4	11		2022
+D112-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-112	S-T1-D112		Duda	compost	Glufosinate-ammonium				4	11		2022
+D112-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-112	Z-T1-D112		Duda	compost	Glufosinate-ammonium				4	11		2022
+D113-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-113	S-T1-D113		Duda	compost	Flumioxazin				4	11		2022
+D113-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-113	Z-T1-D113		Duda	compost	Flumioxazin				4	11		2022
+D114-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-114	S-T1-D114		Duda	compost	Glyphosate				4	11		2022
+D114-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-114	Z-T1-D114		Duda	compost	Glyphosate				4	11		2022
+D121-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-121	S-T1-D121		Duda	control	None				4	12		2022
+D121-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-121	Z-T1-D121		Duda	control	None				4	12		2022
+D122-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-122	S-T1-D122		Duda	control	Glufosinate-ammonium				4	12		2022
+D122-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-122	Z-T1-D122		Duda	control	Glufosinate-ammonium				4	12		2022
+D123-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-123	S-T1-D123		Duda	control	Flumioxazin				4	12		2022
+D123-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-123	Z-T1-D123		Duda	control	Flumioxazin				4	12		2022
+D124-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-124	S-T1-D124		Duda	control	Glyphosate				4	12		2022
+D124-RT1-REDO	T1	Rhizosphere	Florida	FL_DUDA		D-124	Z-T1-D124		Duda	control	Glyphosate				4	12		2022
+D131-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-131	S-T1-D131		Duda	humic	Glyphosate				5	13		2022
+D131-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-131	Z-T1-D131		Duda	humic	Glyphosate				5	13		2022
+D132-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-132	S-T1-D132		Duda	humic	Flumioxazin				5	13		2022
+D132-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-132	Z-T1-D132		Duda	humic	Flumioxazin				5	13		2022
+D133-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-133	S-T1-D133		Duda	humic	Glufosinate-ammonium				5	13		2022
+D133-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-133	Z-T1-D133		Duda	humic	Glufosinate-ammonium				5	13		2022
+D134-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-134	S-T1-D134		Duda	humic	None				5	13		2022
+D134-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-134	Z-T1-D134		Duda	humic	None				5	13		2022
+D141-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-141	S-T1-D141		Duda	control	Glyphosate				5	14		2022
+D141-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-141	Z-T1-D141		Duda	control	Glyphosate				5	14		2022
+D142-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-142	S-T1-D142		Duda	control	Flumioxazin				5	14		2022
+D142-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-142	Z-T1-D142		Duda	control	Flumioxazin				5	14		2022
+D143-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-143	S-T1-D143		Duda	control	Glufosinate-ammonium				5	14		2022
+D143-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-143	Z-T1-D143		Duda	control	Glufosinate-ammonium				5	14		2022
+D144-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-144	S-T1-D144		Duda	control	None				5	14		2022
+D144-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-144	Z-T1-D144		Duda	control	None				5	14		2022
+D151-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-151	S-T1-D151		Duda	compost	Glyphosate				5	15		2022
+D151-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-151	Z-T1-D151		Duda	compost	Glyphosate				5	15		2022
+D152-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-152	S-T1-D152		Duda	compost	Flumioxazin				5	15		2022
+D152-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-152	Z-T1-D152		Duda	compost	Flumioxazin				5	15		2022
+D153-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-153	S-T1-D153		Duda	compost	Glufosinate-ammonium				5	15		2022
+D153-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-153	Z-T1-D153		Duda	compost	Glufosinate-ammonium				5	15		2022
+D154-BT1	T1	Bulk_soil	Florida	FL_DUDA		D-154	S-T1-D154		Duda	compost	None				5	15		2022
+D154-RT1	T1	Rhizosphere	Florida	FL_DUDA		D-154	Z-T1-D154		Duda	compost	None				5	15		2022
+L-T1-D011	T1	Leaves	Florida	FL_DUDA	5/17/21	D-011	L-T1-D011		Duda	compost	None			Tree row	1	1		2022
+L-T1-D012	T1	Leaves	Florida	FL_DUDA	5/17/21	D-012	L-T1-D012		Duda	compost	Flumioxazin			Tree row	1	1		2022
+L-T1-D013	T1	Leaves	Florida	FL_DUDA	5/17/21	D-013	L-T1-D013		Duda	compost	Glufosinate-ammonium			Tree row	1	1		2022
+L-T1-D014	T1	Leaves	Florida	FL_DUDA	5/17/21	D-014	L-T1-D014		Duda	compost	Glyphosate			Tree row	1	1		2022
+L-T1-D021	T1	Leaves	Florida	FL_DUDA	5/17/21	D-021	L-T1-D021		Duda	control	None			Tree row	1	2		2022
+L-T1-D022	T1	Leaves	Florida	FL_DUDA	5/17/21	D-022	L-T1-D022		Duda	control	Flumioxazin			Tree row	1	2		2022
+L-T1-D023	T1	Leaves	Florida	FL_DUDA	5/17/21	D-023	L-T1-D023		Duda	control	Glufosinate-ammonium			Tree row	1	2		2022
+L-T1-D024	T1	Leaves	Florida	FL_DUDA	5/17/21	D-024	L-T1-D024		Duda	control	Glyphosate			Tree row	1	2		2022
+L-T1-D031	T1	Leaves	Florida	FL_DUDA	5/17/21	D-031	L-T1-D031		Duda	humic	None			Tree row	1	3		2022
+L-T1-D032	T1	Leaves	Florida	FL_DUDA	5/17/21	D-032	L-T1-D032		Duda	humic	Flumioxazin			Tree row	1	3		2022
+L-T1-D033	T1	Leaves	Florida	FL_DUDA	5/17/21	D-033	L-T1-D033		Duda	humic	Glufosinate-ammonium			Tree row	1	3		2022
+L-T1-D034	T1	Leaves	Florida	FL_DUDA	5/17/21	D-034	L-T1-D034		Duda	humic	Glyphosate			Tree row	1	3		2022
+L-T1-D041	T1	Leaves	Florida	FL_DUDA	5/17/21	D-041	L-T1-D041		Duda	control	Flumioxazin			Tree row	2	4		2022
+L-T1-D042	T1	Leaves	Florida	FL_DUDA	5/17/21	D-042	L-T1-D042		Duda	control	Glyphosate			Tree row	2	4		2022
+L-T1-D043	T1	Leaves	Florida	FL_DUDA	5/17/21	D-043	L-T1-D043		Duda	control	None			Tree row	2	4		2022
+L-T1-D044	T1	Leaves	Florida	FL_DUDA	5/17/21	D-044	L-T1-D044		Duda	control	Glufosinate-ammonium			Tree row	2	4		2022
+L-T1-D051	T1	Leaves	Florida	FL_DUDA	5/17/21	D-051	L-T1-D051		Duda	compost	Flumioxazin			Tree row	2	5		2022
+L-T1-D052	T1	Leaves	Florida	FL_DUDA	5/17/21	D-052	L-T1-D052		Duda	compost	Glyphosate			Tree row	2	5		2022
+L-T1-D053	T1	Leaves	Florida	FL_DUDA	5/17/21	D-053	L-T1-D053		Duda	compost	None			Tree row	2	5		2022
+L-T1-D054	T1	Leaves	Florida	FL_DUDA	5/17/21	D-054	L-T1-D054		Duda	compost	Glufosinate-ammonium			Tree row	2	5		2022
+L-T1-D061	T1	Leaves	Florida	FL_DUDA	5/17/21	D-061	L-T1-D061		Duda	humic	Flumioxazin			Tree row	2	6		2022
+L-T1-D062	T1	Leaves	Florida	FL_DUDA	5/17/21	D-062	L-T1-D062		Duda	humic	Glyphosate			Tree row	2	6		2022
+L-T1-D063	T1	Leaves	Florida	FL_DUDA	5/17/21	D-063	L-T1-D063		Duda	humic	None			Tree row	2	6		2022
+L-T1-D064	T1	Leaves	Florida	FL_DUDA	5/17/21	D-064	L-T1-D064		Duda	humic	Glufosinate-ammonium			Tree row	2	6		2022
+L-T1-D071	T1	Leaves	Florida	FL_DUDA	5/17/21	D-071	L-T1-D071		Duda	compost	Glufosinate-ammonium			Tree row	3	7		2022
+L-T1-D072	T1	Leaves	Florida	FL_DUDA	5/17/21	D-072	L-T1-D072		Duda	compost	None			Tree row	3	7		2022
+L-T1-D073	T1	Leaves	Florida	FL_DUDA	5/17/21	D-073	L-T1-D073		Duda	compost	Glyphosate			Tree row	3	7		2022
+L-T1-D074	T1	Leaves	Florida	FL_DUDA	5/17/21	D-074	L-T1-D074		Duda	compost	Flumioxazin			Tree row	3	7		2022
+L-T1-D081	T1	Leaves	Florida	FL_DUDA	5/17/21	D-081	L-T1-D081		Duda	humic	Glufosinate-ammonium			Tree row	3	8		2022
+L-T1-D082	T1	Leaves	Florida	FL_DUDA	5/17/21	D-082	L-T1-D082		Duda	humic	None			Tree row	3	8		2022
+L-T1-D083	T1	Leaves	Florida	FL_DUDA	5/17/21	D-083	L-T1-D083		Duda	humic	Glyphosate			Tree row	3	8		2022
+L-T1-D084	T1	Leaves	Florida	FL_DUDA	5/17/21	D-084	L-T1-D084		Duda	humic	Flumioxazin			Tree row	3	8		2022
+L-T1-D091	T1	Leaves	Florida	FL_DUDA	5/17/21	D-091	L-T1-D091		Duda	control	Glufosinate-ammonium			Tree row	3	9		2022
+L-T1-D092	T1	Leaves	Florida	FL_DUDA	5/17/21	D-092	L-T1-D092		Duda	control	None			Tree row	3	9		2022
+L-T1-D093	T1	Leaves	Florida	FL_DUDA	5/17/21	D-093	L-T1-D093		Duda	control	Glyphosate			Tree row	3	9		2022
+L-T1-D094	T1	Leaves	Florida	FL_DUDA	5/17/21	D-094	L-T1-D094		Duda	control	Flumioxazin			Tree row	3	9		2022
+L-T1-D101	T1	Leaves	Florida	FL_DUDA	5/17/21	D-101	L-T1-D101		Duda	humic	None			Tree row	4	10		2022
+L-T1-D102	T1	Leaves	Florida	FL_DUDA	5/17/21	D-102	L-T1-D102		Duda	humic	Glufosinate-ammonium			Tree row	4	10		2022
+L-T1-D103	T1	Leaves	Florida	FL_DUDA	5/17/21	D-103	L-T1-D103		Duda	humic	Flumioxazin			Tree row	4	10		2022
+L-T1-D104	T1	Leaves	Florida	FL_DUDA	5/17/21	D-104	L-T1-D104		Duda	humic	Glyphosate			Tree row	4	10		2022
+L-T1-D111	T1	Leaves	Florida	FL_DUDA	5/17/21	D-111	L-T1-D111		Duda	compost	None			Tree row	4	11		2022
+L-T1-D112	T1	Leaves	Florida	FL_DUDA	5/17/21	D-112	L-T1-D112		Duda	compost	Glufosinate-ammonium			Tree row	4	11		2022
+L-T1-D113	T1	Leaves	Florida	FL_DUDA	5/17/21	D-113	L-T1-D113		Duda	compost	Flumioxazin			Tree row	4	11		2022
+L-T1-D114	T1	Leaves	Florida	FL_DUDA	5/17/21	D-114	L-T1-D114		Duda	compost	Glyphosate			Tree row	4	11		2022
+L-T1-D121	T1	Leaves	Florida	FL_DUDA	5/17/21	D-121	L-T1-D121		Duda	control	None			Tree row	4	12		2022
+L-T1-D122	T1	Leaves	Florida	FL_DUDA	5/17/21	D-122	L-T1-D122		Duda	control	Glufosinate-ammonium			Tree row	4	12		2022
+L-T1-D123	T1	Leaves	Florida	FL_DUDA	5/17/21	D-123	L-T1-D123		Duda	control	Flumioxazin			Tree row	4	12		2022
+L-T1-D124	T1	Leaves	Florida	FL_DUDA	5/17/21	D-124	L-T1-D124		Duda	control	Glyphosate			Tree row	4	12		2022
+L-T1-D131	T1	Leaves	Florida	FL_DUDA	5/17/21	D-131	L-T1-D131		Duda	humic	Glyphosate			Tree row	5	13		2022
+L-T1-D132	T1	Leaves	Florida	FL_DUDA	5/17/21	D-132	L-T1-D132		Duda	humic	Flumioxazin			Tree row	5	13		2022
+L-T1-D133	T1	Leaves	Florida	FL_DUDA	5/17/21	D-133	L-T1-D133		Duda	humic	Glufosinate-ammonium			Tree row	5	13		2022
+L-T1-D134	T1	Leaves	Florida	FL_DUDA	5/17/21	D-134	L-T1-D134		Duda	humic	None			Tree row	5	13		2022
+L-T1-D141	T1	Leaves	Florida	FL_DUDA	5/17/21	D-141	L-T1-D141		Duda	control	Glyphosate			Tree row	5	14		2022
+L-T1-D142	T1	Leaves	Florida	FL_DUDA	5/17/21	D-142	L-T1-D142		Duda	control	Flumioxazin			Tree row	5	14		2022
+L-T1-D143	T1	Leaves	Florida	FL_DUDA	5/17/21	D-143	L-T1-D143		Duda	control	Glufosinate-ammonium			Tree row	5	14		2022
+L-T1-D144	T1	Leaves	Florida	FL_DUDA	5/17/21	D-144	L-T1-D144		Duda	control	None			Tree row	5	14		2022
+L-T1-D151	T1	Leaves	Florida	FL_DUDA	5/17/21	D-151	L-T1-D151		Duda	compost	Glyphosate			Tree row	5	15		2022
+L-T1-D152	T1	Leaves	Florida	FL_DUDA	5/17/21	D-152	L-T1-D152		Duda	compost	Flumioxazin			Tree row	5	15		2022
+L-T1-D153	T1	Leaves	Florida	FL_DUDA	5/17/21	D-153	L-T1-D153		Duda	compost	Glufosinate-ammonium			Tree row	5	15		2022
+L-T1-D154	T1	Leaves	Florida	FL_DUDA	5/17/21	D-154	L-T1-D154		Duda	compost	None			Tree row	5	15		2022
+L-T0-LB041	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-041	L-T0-LB041		Larry Black	Control	Glyphosate			Tree row			11_1	2021
+LB041-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-041	S-T0-LB041		Larry Black	Control	Glyphosate						11_1	2021
+LB041-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-041	Z-T0-LB041		Larry Black	Control	Glyphosate						11_1	2021
+R-T0-LB041	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-041	R-T0-LB041		Larry Black	Control	Glyphosate			Tree row			11_1	2021
+L-T1-LB041	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-041	L-T1-LB041		Larry Black	Control	Glyphosate			Tree row			11_1	2022
+LB041-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-041	S-T1-LB041		Larry Black	Control	Glyphosate						11_1	2022
+LB041-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-041	Z-T1-LB041		Larry Black	Control	Glyphosate						11_1	2022
+R-T1-LB041	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-041	R-T1-LB041		Larry Black	Control	Glyphosate			Tree row			11_1	2022
+L-T2-LB041	T2	Leaves	Florida	FL_Larry_Black		LB-041	L-T2-LB041		Larry Black	Control	Glyphosate						11_1	2023
+R-T2-LB041	T2	Roots	Florida	FL_Larry_Black		LB-041	R-T2-LB041		Larry Black	Control	Glyphosate						11_1	2023
+S-T2-LB041	T2	Bulk_soil	Florida	FL_Larry_Black		LB-041	S-T2-LB041		Larry Black	Control	Glyphosate						11_1	2023
+Z-T2-LB041	T2	Rhizosphere	Florida	FL_Larry_Black		LB-041	Z-T2-LB041		Larry Black	Control	Glyphosate						11_1	2023
+L-T0-LB042	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-042	L-T0-LB042		Larry Black	Control	Alternative			Tree row			11_2	2021
+LB042-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-042	S-T0-LB042		Larry Black	Control	Alternative						11_2	2021
+LB042-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-042	Z-T0-LB042		Larry Black	Control	Alternative						11_2	2021
+R-T0-LB042	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-042	R-T0-LB042		Larry Black	Control	Alternative			Tree row			11_2	2021
+L-T1-LB042	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-042	L-T1-LB042		Larry Black	Control	Alternative			Tree row			11_2	2022
+LB042-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-042	S-T1-LB042		Larry Black	Control	Alternative						11_2	2022
+LB042-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-042	Z-T1-LB042		Larry Black	Control	Alternative						11_2	2022
+R-T1-LB042	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-042	R-T1-LB042		Larry Black	Control	Alternative			Tree row			11_2	2022
+L-T2-LB042	T2	Leaves	Florida	FL_Larry_Black		LB-042	L-T2-LB042		Larry Black	Control	Alternative						11_2	2023
+R-T2-LB042	T2	Roots	Florida	FL_Larry_Black		LB-042	R-T2-LB042		Larry Black	Control	Alternative						11_2	2023
+S-T2-LB042	T2	Bulk_soil	Florida	FL_Larry_Black		LB-042	S-T2-LB042		Larry Black	Control	Alternative						11_2	2023
+Z-T2-LB042	T2	Rhizosphere	Florida	FL_Larry_Black		LB-042	Z-T2-LB042		Larry Black	Control	Alternative						11_2	2023
+L-T0-LB051	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-051	L-T0-LB051		Larry Black	Cover_crop	Glyphosate			Tree row			14_1	2021
+LB051-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-051	S-T0-LB051		Larry Black	Cover_crop	Glyphosate						14_1	2021
+LB051-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-051	Z-T0-LB051		Larry Black	Cover_crop	Glyphosate						14_1	2021
+R-T0-LB051	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-051	R-T0-LB051		Larry Black	Cover_crop	Glyphosate			Tree row			14_1	2021
+L-T1-LB051	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-051	L-T1-LB051		Larry Black	Cover_crop	Glyphosate			Tree row			14_1	2022
+LB051-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-051	S-T1-LB051		Larry Black	Cover_crop	Glyphosate						14_1	2022
+LB051-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-051	Z-T1-LB051		Larry Black	Cover_crop	Glyphosate						14_1	2022
+R-T1-LB051	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-051	R-T1-LB051		Larry Black	Cover_crop	Glyphosate			Tree row			14_1	2022
+L-T2-LB051	T2	Leaves	Florida	FL_Larry_Black		LB-051	L-T2-LB051		Larry Black	Cover_crop	Glyphosate						14_1	2023
+R-T2-LB051	T2	Roots	Florida	FL_Larry_Black		LB-051	R-T2-LB051		Larry Black	Cover_crop	Glyphosate						14_1	2023
+S-T2-LB051	T2	Bulk_soil	Florida	FL_Larry_Black		LB-051	S-T2-LB051		Larry Black	Cover_crop	Glyphosate						14_1	2023
+Z-T2-LB051	T2	Rhizosphere	Florida	FL_Larry_Black		LB-051	Z-T2-LB051		Larry Black	Cover_crop	Glyphosate						14_1	2023
+L-T0-LB052	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-052	L-T0-LB052		Larry Black	Cover_crop	Glyphosate			Tree row			14_2	2021
+LB052-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-052	S-T0-LB052		Larry Black	Cover_crop	Glyphosate						14_2	2021
+LB052-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-052	Z-T0-LB052		Larry Black	Cover_crop	Glyphosate						14_2	2021
+R-T0-LB052	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-052	R-T0-LB052		Larry Black	Cover_crop	Glyphosate			Tree row			14_2	2021
+L-T1-LB052	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-052	L-T1-LB052		Larry Black	Cover_crop	Glyphosate			Tree row			14_2	2022
+LB052-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-052	S-T1-LB052		Larry Black	Cover_crop	Glyphosate						14_2	2022
+LB052-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-052	Z-T1-LB052		Larry Black	Cover_crop	Glyphosate						14_2	2022
+R-T1-LB052	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-052	R-T1-LB052		Larry Black	Cover_crop	Glyphosate			Tree row			14_2	2022
+L-T2-LB052	T2	Leaves	Florida	FL_Larry_Black		LB-052	L-T2-LB052		Larry Black	Cover_crop	Glyphosate						14_2	2023
+R-T2-LB052	T2	Roots	Florida	FL_Larry_Black		LB-052	R-T2-LB052		Larry Black	Cover_crop	Glyphosate						14_2	2023
+S-T2-LB052	T2	Bulk_soil	Florida	FL_Larry_Black		LB-052	S-T2-LB052		Larry Black	Cover_crop	Glyphosate						14_2	2023
+Z-T2-LB052	T2	Rhizosphere	Florida	FL_Larry_Black		LB-052	Z-T2-LB052		Larry Black	Cover_crop	Glyphosate						14_2	2023
+L-T0-LB061	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-061	L-T0-LB061		Larry Black	Control	Glyphosate			Tree row			17_1	2021
+LB061-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-061	S-T0-LB061		Larry Black	Control	Glyphosate						17_1	2021
+LB061-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-061	Z-T0-LB061		Larry Black	Control	Glyphosate						17_1	2021
+R-T0-LB061	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-061	R-T0-LB061		Larry Black	Control	Glyphosate			Tree row			17_1	2021
+L-T1-LB061	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-061	L-T1-LB061		Larry Black	Control	Glyphosate			Tree row			17_1	2022
+LB061-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-061	S-T1-LB061		Larry Black	Control	Glyphosate						17_1	2022
+LB061-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-061	Z-T1-LB061		Larry Black	Control	Glyphosate						17_1	2022
+R-T1-LB061	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-061	R-T1-LB061		Larry Black	Control	Glyphosate			Tree row			17_1	2022
+R-T1-D011	T1	Roots	Florida	FL_DUDA	7/28/22	D-011	R-T1-D011		Duda	compost	None			Tree row	1	1		2022
+R-T1-D012	T1	Roots	Florida	FL_DUDA	7/28/22	D-012	R-T1-D012		Duda	compost	Flumioxazin			Tree row	1	1		2022
+R-T1-D013	T1	Roots	Florida	FL_DUDA	7/28/22	D-013	R-T1-D013		Duda	compost	Glufosinate-ammonium			Tree row	1	1		2022
+R-T1-D014	T1	Roots	Florida	FL_DUDA	7/28/22	D-014	R-T1-D014		Duda	compost	Glyphosate			Tree row	1	1		2022
+R-T1-D021	T1	Roots	Florida	FL_DUDA	7/28/22	D-021	R-T1-D021		Duda	control	None			Tree row	1	2		2022
+R-T1-D022	T1	Roots	Florida	FL_DUDA	7/28/22	D-022	R-T1-D022		Duda	control	Flumioxazin			Tree row	1	2		2022
+R-T1-D023	T1	Roots	Florida	FL_DUDA	7/28/22	D-023	R-T1-D023		Duda	control	Glufosinate-ammonium			Tree row	1	2		2022
+R-T1-D024	T1	Roots	Florida	FL_DUDA	7/28/22	D-024	R-T1-D024		Duda	control	Glyphosate			Tree row	1	2		2022
+R-T1-D031	T1	Roots	Florida	FL_DUDA	7/28/22	D-031	R-T1-D031		Duda	humic	None			Tree row	1	3		2022
+R-T1-D032	T1	Roots	Florida	FL_DUDA	7/28/22	D-032	R-T1-D032		Duda	humic	Flumioxazin			Tree row	1	3		2022
+R-T1-D033	T1	Roots	Florida	FL_DUDA	7/28/22	D-033	R-T1-D033		Duda	humic	Glufosinate-ammonium			Tree row	1	3		2022
+R-T1-D034	T1	Roots	Florida	FL_DUDA	7/28/22	D-034	R-T1-D034		Duda	humic	Glyphosate			Tree row	1	3		2022
+R-T1-D041	T1	Roots	Florida	FL_DUDA	7/28/22	D-041	R-T1-D041		Duda	control	Flumioxazin			Tree row	2	4		2022
+R-T1-D042	T1	Roots	Florida	FL_DUDA	7/28/22	D-042	R-T1-D042		Duda	control	Glyphosate			Tree row	2	4		2022
+R-T1-D043	T1	Roots	Florida	FL_DUDA	7/28/22	D-043	R-T1-D043		Duda	control	None			Tree row	2	4		2022
+R-T1-D044	T1	Roots	Florida	FL_DUDA	7/28/22	D-044	R-T1-D044		Duda	control	Glufosinate-ammonium			Tree row	2	4		2022
+R-T1-D051	T1	Roots	Florida	FL_DUDA	7/28/22	D-051	R-T1-D051		Duda	compost	Flumioxazin			Tree row	2	5		2022
+R-T1-D052	T1	Roots	Florida	FL_DUDA	7/28/22	D-052	R-T1-D052		Duda	compost	Glyphosate			Tree row	2	5		2022
+R-T1-D053	T1	Roots	Florida	FL_DUDA	7/28/22	D-053	R-T1-D053		Duda	compost	None			Tree row	2	5		2022
+R-T1-D054	T1	Roots	Florida	FL_DUDA	7/28/22	D-054	R-T1-D054		Duda	compost	Glufosinate-ammonium			Tree row	2	5		2022
+R-T1-D061	T1	Roots	Florida	FL_DUDA	7/28/22	D-061	R-T1-D061		Duda	humic	Flumioxazin			Tree row	2	6		2022
+R-T1-D062	T1	Roots	Florida	FL_DUDA	7/28/22	D-062	R-T1-D062		Duda	humic	Glyphosate			Tree row	2	6		2022
+R-T1-D063	T1	Roots	Florida	FL_DUDA	7/28/22	D-063	R-T1-D063		Duda	humic	None			Tree row	2	6		2022
+R-T1-D064	T1	Roots	Florida	FL_DUDA	7/28/22	D-064	R-T1-D064		Duda	humic	Glufosinate-ammonium			Tree row	2	6		2022
+R-T1-D071	T1	Roots	Florida	FL_DUDA	7/28/22	D-071	R-T1-D071		Duda	compost	Glufosinate-ammonium			Tree row	3	7		2022
+R-T1-D072	T1	Roots	Florida	FL_DUDA	7/28/22	D-072	R-T1-D072		Duda	compost	None			Tree row	3	7		2022
+R-T1-D073	T1	Roots	Florida	FL_DUDA	7/28/22	D-073	R-T1-D073		Duda	compost	Glyphosate			Tree row	3	7		2022
+R-T1-D074	T1	Roots	Florida	FL_DUDA	7/28/22	D-074	R-T1-D074		Duda	compost	Flumioxazin			Tree row	3	7		2022
+R-T1-D081	T1	Roots	Florida	FL_DUDA	7/28/22	D-081	R-T1-D081		Duda	humic	Glufosinate-ammonium			Tree row	3	8		2022
+R-T1-D082	T1	Roots	Florida	FL_DUDA	7/28/22	D-082	R-T1-D082		Duda	humic	None			Tree row	3	8		2022
+R-T1-D083	T1	Roots	Florida	FL_DUDA	7/28/22	D-083	R-T1-D083		Duda	humic	Glyphosate			Tree row	3	8		2022
+R-T1-D084	T1	Roots	Florida	FL_DUDA	7/28/22	D-084	R-T1-D084		Duda	humic	Flumioxazin			Tree row	3	8		2022
+R-T1-D091	T1	Roots	Florida	FL_DUDA	7/28/22	D-091	R-T1-D091		Duda	control	Glufosinate-ammonium			Tree row	3	9		2022
+R-T1-D092	T1	Roots	Florida	FL_DUDA	7/28/22	D-092	R-T1-D092		Duda	control	None			Tree row	3	9		2022
+R-T1-D093	T1	Roots	Florida	FL_DUDA	7/28/22	D-093	R-T1-D093		Duda	control	Glyphosate			Tree row	3	9		2022
+R-T1-D094	T1	Roots	Florida	FL_DUDA	7/28/22	D-094	R-T1-D094		Duda	control	Flumioxazin			Tree row	3	9		2022
+R-T1-D101	T1	Roots	Florida	FL_DUDA	7/28/22	D-101	R-T1-D101		Duda	humic	None			Tree row	4	10		2022
+R-T1-D102	T1	Roots	Florida	FL_DUDA	7/28/22	D-102	R-T1-D102		Duda	humic	Glufosinate-ammonium			Tree row	4	10		2022
+R-T1-D103	T1	Roots	Florida	FL_DUDA	7/28/22	D-103	R-T1-D103		Duda	humic	Flumioxazin			Tree row	4	10		2022
+R-T1-D104	T1	Roots	Florida	FL_DUDA	7/28/22	D-104	R-T1-D104		Duda	humic	Glyphosate			Tree row	4	10		2022
+R-T1-D111	T1	Roots	Florida	FL_DUDA	7/28/22	D-111	R-T1-D111		Duda	compost	None			Tree row	4	11		2022
+R-T1-D112	T1	Roots	Florida	FL_DUDA	7/28/22	D-112	R-T1-D112		Duda	compost	Glufosinate-ammonium			Tree row	4	11		2022
+R-T1-D113	T1	Roots	Florida	FL_DUDA	7/28/22	D-113	R-T1-D113		Duda	compost	Flumioxazin			Tree row	4	11		2022
+R-T1-D114	T1	Roots	Florida	FL_DUDA	7/28/22	D-114	R-T1-D114		Duda	compost	Glyphosate			Tree row	4	11		2022
+R-T1-D121	T1	Roots	Florida	FL_DUDA	7/28/22	D-121	R-T1-D121		Duda	control	None			Tree row	4	12		2022
+R-T1-D122	T1	Roots	Florida	FL_DUDA	7/28/22	D-122	R-T1-D122		Duda	control	Glufosinate-ammonium			Tree row	4	12		2022
+R-T1-D123	T1	Roots	Florida	FL_DUDA	7/28/22	D-123	R-T1-D123		Duda	control	Flumioxazin			Tree row	4	12		2022
+R-T1-D124	T1	Roots	Florida	FL_DUDA	7/28/22	D-124	R-T1-D124		Duda	control	Glyphosate			Tree row	4	12		2022
+R-T1-D131	T1	Roots	Florida	FL_DUDA	7/28/22	D-131	R-T1-D131		Duda	humic	Glyphosate			Tree row	5	13		2022
+R-T1-D132	T1	Roots	Florida	FL_DUDA	7/28/22	D-132	R-T1-D132		Duda	humic	Flumioxazin			Tree row	5	13		2022
+R-T1-D133	T1	Roots	Florida	FL_DUDA	7/28/22	D-133	R-T1-D133		Duda	humic	Glufosinate-ammonium			Tree row	5	13		2022
+R-T1-D134	T1	Roots	Florida	FL_DUDA	7/28/22	D-134	R-T1-D134		Duda	humic	None			Tree row	5	13		2022
+R-T1-D141	T1	Roots	Florida	FL_DUDA	7/28/22	D-141	R-T1-D141		Duda	control	Glyphosate			Tree row	5	14		2022
+R-T1-D142	T1	Roots	Florida	FL_DUDA	7/28/22	D-142	R-T1-D142		Duda	control	Flumioxazin			Tree row	5	14		2022
+R-T1-D143	T1	Roots	Florida	FL_DUDA	7/28/22	D-143	R-T1-D143		Duda	control	Glufosinate-ammonium			Tree row	5	14		2022
+R-T1-D144	T1	Roots	Florida	FL_DUDA	7/28/22	D-144	R-T1-D144		Duda	control	None			Tree row	5	14		2022
+R-T1-D151	T1	Roots	Florida	FL_DUDA	7/28/22	D-151	R-T1-D151		Duda	compost	Glyphosate			Tree row	5	15		2022
+R-T1-D152	T1	Roots	Florida	FL_DUDA	7/28/22	D-152	R-T1-D152		Duda	compost	Flumioxazin			Tree row	5	15		2022
+R-T1-D153	T1	Roots	Florida	FL_DUDA	7/28/22	D-153	R-T1-D153		Duda	compost	Glufosinate-ammonium			Tree row	5	15		2022
+R-T1-D154	T1	Roots	Florida	FL_DUDA	7/28/22	D-154	R-T1-D154		Duda	compost	None			Tree row	5	15		2022
+L-T2-LB061	T2	Leaves	Florida	FL_Larry_Black		LB-061	L-T2-LB061		Larry Black	Control	Glyphosate						17_1	2023
+R-T2-LB061	T2	Roots	Florida	FL_Larry_Black		LB-061	R-T2-LB061		Larry Black	Control	Glyphosate						17_1	2023
+S-T2-LB061	T2	Bulk_soil	Florida	FL_Larry_Black		LB-061	S-T2-LB061		Larry Black	Control	Glyphosate						17_1	2023
+Z-T2-LB061	T2	Rhizosphere	Florida	FL_Larry_Black		LB-061	Z-T2-LB061		Larry Black	Control	Glyphosate						17_1	2023
+L-T0-LB062	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-062	L-T0-LB062		Larry Black	Control	Alternative			Tree row			17_2	2021
+LB062-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-062	S-T0-LB062		Larry Black	Control	Alternative						17_2	2021
+LB062-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-062	Z-T0-LB062		Larry Black	Control	Alternative						17_2	2021
+R-T0-LB062	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-062	R-T0-LB062		Larry Black	Control	Alternative			Tree row			17_2	2021
+L-T1-LB062	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-062	L-T1-LB062		Larry Black	Control	Alternative			Tree row			17_2	2022
+LB062-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-062	S-T1-LB062		Larry Black	Control	Alternative						17_2	2022
+LB062-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-062	Z-T1-LB062		Larry Black	Control	Alternative						17_2	2022
+R-T1-LB062	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-062	R-T1-LB062		Larry Black	Control	Alternative			Tree row			17_2	2022
+L-T2-LB062	T2	Leaves	Florida	FL_Larry_Black		LB-062	L-T2-LB062		Larry Black	Control	Alternative						17_2	2023
+R-T2-LB062	T2	Roots	Florida	FL_Larry_Black		LB-062	R-T2-LB062		Larry Black	Control	Alternative						17_2	2023
+S-T2-LB062	T2	Bulk_soil	Florida	FL_Larry_Black		LB-062	S-T2-LB062		Larry Black	Control	Alternative						17_2	2023
+Z-T2-LB062	T2	Rhizosphere	Florida	FL_Larry_Black		LB-062	Z-T2-LB062		Larry Black	Control	Alternative						17_2	2023
+L-T2-D011	T2	Leaves	Florida	FL_DUDA		D-011	L-T2-D011		Duda	compost	None			Tree row	1	1		2023
+L-T2-D012	T2	Leaves	Florida	FL_DUDA		D-012	L-T2-D012		Duda	compost	Flumioxazin			Tree row	1	1		2023
+L-T2-D013	T2	Leaves	Florida	FL_DUDA		D-013	L-T2-D013		Duda	compost	Glufosinate-ammonium			Tree row	1	1		2023
+L-T2-D014	T2	Leaves	Florida	FL_DUDA		D-014	L-T2-D014		Duda	compost	Glyphosate			Tree row	1	1		2023
+L-T2-D021	T2	Leaves	Florida	FL_DUDA		D-021	L-T2-D021		Duda	control	None			Tree row	1	2		2023
+L-T2-D022	T2	Leaves	Florida	FL_DUDA		D-022	L-T2-D022		Duda	control	Flumioxazin			Tree row	1	2		2023
+L-T2-D023	T2	Leaves	Florida	FL_DUDA		D-023	L-T2-D023		Duda	control	Glufosinate-ammonium			Tree row	1	2		2023
+L-T2-D024	T2	Leaves	Florida	FL_DUDA		D-024	L-T2-D024		Duda	control	Glyphosate			Tree row	1	2		2023
+L-T2-D031	T2	Leaves	Florida	FL_DUDA		D-031	L-T2-D031		Duda	humic	None			Tree row	1	3		2023
+L-T2-D032	T2	Leaves	Florida	FL_DUDA		D-032	L-T2-D032		Duda	humic	Flumioxazin			Tree row	1	3		2023
+L-T2-D033	T2	Leaves	Florida	FL_DUDA		D-033	L-T2-D033		Duda	humic	Glufosinate-ammonium			Tree row	1	3		2023
+L-T2-D034	T2	Leaves	Florida	FL_DUDA		D-034	L-T2-D034		Duda	humic	Glyphosate			Tree row	1	3		2023
+L-T2-D041	T2	Leaves	Florida	FL_DUDA		D-041	L-T2-D041		Duda	control	Flumioxazin			Tree row	2	4		2023
+L-T2-D042	T2	Leaves	Florida	FL_DUDA		D-042	L-T2-D042		Duda	control	Glyphosate			Tree row	2	4		2023
+L-T2-D043	T2	Leaves	Florida	FL_DUDA		D-043	L-T2-D043		Duda	control	None			Tree row	2	4		2023
+L-T2-D044	T2	Leaves	Florida	FL_DUDA		D-044	L-T2-D044		Duda	control	Glufosinate-ammonium			Tree row	2	4		2023
+L-T2-D051	T2	Leaves	Florida	FL_DUDA		D-051	L-T2-D051		Duda	compost	Flumioxazin			Tree row	2	5		2023
+L-T2-D052	T2	Leaves	Florida	FL_DUDA		D-052	L-T2-D052		Duda	compost	Glyphosate			Tree row	2	5		2023
+L-T2-D053	T2	Leaves	Florida	FL_DUDA		D-053	L-T2-D053		Duda	compost	None			Tree row	2	5		2023
+L-T2-D054	T2	Leaves	Florida	FL_DUDA		D-054	L-T2-D054		Duda	compost	Glufosinate-ammonium			Tree row	2	5		2023
+L-T2-D061	T2	Leaves	Florida	FL_DUDA		D-061	L-T2-D061		Duda	humic	Flumioxazin			Tree row	2	6		2023
+L-T2-D062	T2	Leaves	Florida	FL_DUDA		D-062	L-T2-D062		Duda	humic	Glyphosate			Tree row	2	6		2023
+L-T2-D063	T2	Leaves	Florida	FL_DUDA		D-063	L-T2-D063		Duda	humic	None			Tree row	2	6		2023
+L-T2-D064	T2	Leaves	Florida	FL_DUDA		D-064	L-T2-D064		Duda	humic	Glufosinate-ammonium			Tree row	2	6		2023
+L-T2-D071	T2	Leaves	Florida	FL_DUDA		D-071	L-T2-D071		Duda	compost	Glufosinate-ammonium			Tree row	3	7		2023
+L-T2-D072	T2	Leaves	Florida	FL_DUDA		D-072	L-T2-D072		Duda	compost	None			Tree row	3	7		2023
+L-T2-D073	T2	Leaves	Florida	FL_DUDA		D-073	L-T2-D073		Duda	compost	Glyphosate			Tree row	3	7		2023
+L-T2-D074	T2	Leaves	Florida	FL_DUDA		D-074	L-T2-D074		Duda	compost	Flumioxazin			Tree row	3	7		2023
+L-T2-D081	T2	Leaves	Florida	FL_DUDA		D-081	L-T2-D081		Duda	humic	Glufosinate-ammonium			Tree row	3	8		2023
+L-T2-D082	T2	Leaves	Florida	FL_DUDA		D-082	L-T2-D082		Duda	humic	None			Tree row	3	8		2023
+L-T2-D083	T2	Leaves	Florida	FL_DUDA		D-083	L-T2-D083		Duda	humic	Glyphosate			Tree row	3	8		2023
+L-T2-D084	T2	Leaves	Florida	FL_DUDA		D-084	L-T2-D084		Duda	humic	Flumioxazin			Tree row	3	8		2023
+L-T2-D091	T2	Leaves	Florida	FL_DUDA		D-091	L-T2-D091		Duda	control	Glufosinate-ammonium			Tree row	3	9		2023
+L-T2-D092	T2	Leaves	Florida	FL_DUDA		D-092	L-T2-D092		Duda	control	None			Tree row	3	9		2023
+L-T2-D093	T2	Leaves	Florida	FL_DUDA		D-093	L-T2-D093		Duda	control	Glyphosate			Tree row	3	9		2023
+L-T2-D094	T2	Leaves	Florida	FL_DUDA		D-094	L-T2-D094		Duda	control	Flumioxazin			Tree row	3	9		2023
+L-T2-D101	T2	Leaves	Florida	FL_DUDA		D-101	L-T2-D101		Duda	humic	None			Tree row	4	10		2023
+L-T2-D102	T2	Leaves	Florida	FL_DUDA		D-102	L-T2-D102		Duda	humic	Glufosinate-ammonium			Tree row	4	10		2023
+L-T2-D103	T2	Leaves	Florida	FL_DUDA		D-103	L-T2-D103		Duda	humic	Flumioxazin			Tree row	4	10		2023
+L-T2-D104	T2	Leaves	Florida	FL_DUDA		D-104	L-T2-D104		Duda	humic	Glyphosate			Tree row	4	10		2023
+L-T2-D111	T2	Leaves	Florida	FL_DUDA		D-111	L-T2-D111		Duda	compost	None			Tree row	4	11		2023
+L-T2-D112	T2	Leaves	Florida	FL_DUDA		D-112	L-T2-D112		Duda	compost	Glufosinate-ammonium			Tree row	4	11		2023
+L-T2-D113	T2	Leaves	Florida	FL_DUDA		D-113	L-T2-D113		Duda	compost	Flumioxazin			Tree row	4	11		2023
+L-T2-D114	T2	Leaves	Florida	FL_DUDA		D-114	L-T2-D114		Duda	compost	Glyphosate			Tree row	4	11		2023
+L-T2-D121	T2	Leaves	Florida	FL_DUDA		D-121	L-T2-D121		Duda	control	None			Tree row	4	12		2023
+L-T2-D122	T2	Leaves	Florida	FL_DUDA		D-122	L-T2-D122		Duda	control	Glufosinate-ammonium			Tree row	4	12		2023
+L-T2-D123	T2	Leaves	Florida	FL_DUDA		D-123	L-T2-D123		Duda	control	Flumioxazin			Tree row	4	12		2023
+L-T2-D124	T2	Leaves	Florida	FL_DUDA		D-124	L-T2-D124		Duda	control	Glyphosate			Tree row	4	12		2023
+L-T2-D131	T2	Leaves	Florida	FL_DUDA		D-131	L-T2-D131		Duda	humic	Glyphosate			Tree row	5	13		2023
+L-T2-D132	T2	Leaves	Florida	FL_DUDA		D-132	L-T2-D132		Duda	humic	Flumioxazin			Tree row	5	13		2023
+L-T2-D133	T2	Leaves	Florida	FL_DUDA		D-133	L-T2-D133		Duda	humic	Glufosinate-ammonium			Tree row	5	13		2023
+L-T2-D134	T2	Leaves	Florida	FL_DUDA		D-134	L-T2-D134		Duda	humic	None			Tree row	5	13		2023
+L-T2-D141	T2	Leaves	Florida	FL_DUDA		D-141	L-T2-D141		Duda	control	Glyphosate			Tree row	5	14		2023
+L-T2-D142	T2	Leaves	Florida	FL_DUDA		D-142	L-T2-D142		Duda	control	Flumioxazin			Tree row	5	14		2023
+L-T2-D143	T2	Leaves	Florida	FL_DUDA		D-143	L-T2-D143		Duda	control	Glufosinate-ammonium			Tree row	5	14		2023
+L-T2-D144	T2	Leaves	Florida	FL_DUDA		D-144	L-T2-D144		Duda	control	None			Tree row	5	14		2023
+L-T2-D151	T2	Leaves	Florida	FL_DUDA		D-151	L-T2-D151		Duda	compost	Glyphosate			Tree row	5	15		2023
+L-T2-D152	T2	Leaves	Florida	FL_DUDA		D-152	L-T2-D152		Duda	compost	Flumioxazin			Tree row	5	15		2023
+L-T2-D153	T2	Leaves	Florida	FL_DUDA		D-153	L-T2-D153		Duda	compost	Glufosinate-ammonium			Tree row	5	15		2023
+L-T2-D154	T2	Leaves	Florida	FL_DUDA		D-154	L-T2-D154		Duda	compost	None			Tree row	5	15		2023
+L-T0-LB071	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-071	L-T0-LB071		Larry Black	Cover_crop	Alternative			Tree row			20_1	2021
+LB071-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-071	S-T0-LB071		Larry Black	Cover_crop	Alternative						20_1	2021
+LB071-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-071	Z-T0-LB071		Larry Black	Cover_crop	Alternative						20_1	2021
+R-T0-LB071	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-071	R-T0-LB071		Larry Black	Cover_crop	Alternative			Tree row			20_1	2021
+L-T1-LB071	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-071	L-T1-LB071		Larry Black	Cover_crop	Alternative			Tree row			20_1	2022
+LB071-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-071	S-T1-LB071		Larry Black	Cover_crop	Alternative						20_1	2022
+LB071-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-071	Z-T1-LB071		Larry Black	Cover_crop	Alternative						20_1	2022
+R-T1-LB071	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-071	R-T1-LB071		Larry Black	Cover_crop	Alternative			Tree row			20_1	2022
+L-T2-LB071	T2	Leaves	Florida	FL_Larry_Black		LB-071	L-T2-LB071		Larry Black	Cover_crop	Alternative						20_1	2023
+R-T2-LB071	T2	Roots	Florida	FL_Larry_Black		LB-071	R-T2-LB071		Larry Black	Cover_crop	Alternative						20_1	2023
+S-T2-LB071	T2	Bulk_soil	Florida	FL_Larry_Black		LB-071	S-T2-LB071		Larry Black	Cover_crop	Alternative						20_1	2023
+Z-T2-LB071	T2	Rhizosphere	Florida	FL_Larry_Black		LB-071	Z-T2-LB071		Larry Black	Cover_crop	Alternative						20_1	2023
+L-T0-LB072	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-072	L-T0-LB072		Larry Black	Cover_crop	Alternative			Tree row			20_2	2021
+LB072-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-072	S-T0-LB072		Larry Black	Cover_crop	Alternative						20_2	2021
+LB072-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-072	Z-T0-LB072		Larry Black	Cover_crop	Alternative						20_2	2021
+R-T0-LB072	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-072	R-T0-LB072		Larry Black	Cover_crop	Alternative			Tree row			20_2	2021
+L-T1-LB072	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-072	L-T1-LB072		Larry Black	Cover_crop	Alternative			Tree row			20_2	2022
+LB072-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-072	S-T1-LB072		Larry Black	Cover_crop	Alternative						20_2	2022
+LB072-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-072	Z-T1-LB072		Larry Black	Cover_crop	Alternative						20_2	2022
+R-T1-LB072	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-072	R-T1-LB072		Larry Black	Cover_crop	Alternative			Tree row			20_2	2022
+L-T2-LB072	T2	Leaves	Florida	FL_Larry_Black		LB-072	L-T2-LB072		Larry Black	Cover_crop	Alternative						20_2	2023
+R-T2-LB072	T2	Roots	Florida	FL_Larry_Black		LB-072	R-T2-LB072		Larry Black	Cover_crop	Alternative						20_2	2023
+S-T2-LB072	T2	Bulk_soil	Florida	FL_Larry_Black		LB-072	S-T2-LB072		Larry Black	Cover_crop	Alternative						20_2	2023
+Z-T2-LB072	T2	Rhizosphere	Florida	FL_Larry_Black		LB-072	Z-T2-LB072		Larry Black	Cover_crop	Alternative						20_2	2023
+L-T0-LB081	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-081	L-T0-LB081		Larry Black	Control	Alternative			Tree row			23_1	2021
+LB081-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-081	S-T0-LB081		Larry Black	Control	Alternative						23_1	2021
+LB081-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-081	Z-T0-LB081		Larry Black	Control	Alternative						23_1	2021
+R-T0-LB081	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-081	R-T0-LB081		Larry Black	Control	Alternative			Tree row			23_1	2021
+L-T1-LB081	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-081	L-T1-LB081		Larry Black	Control	Alternative			Tree row			23_1	2022
+LB081-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-081	S-T1-LB081		Larry Black	Control	Alternative						23_1	2022
+LB081-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-081	Z-T1-LB081		Larry Black	Control	Alternative						23_1	2022
+R-T1-LB081	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-081	R-T1-LB081		Larry Black	Control	Alternative			Tree row			23_1	2022
+L-T2-LB081	T2	Leaves	Florida	FL_Larry_Black		LB-081	L-T2-LB081		Larry Black	Control	Alternative						23_1	2023
+R-T2-LB081	T2	Roots	Florida	FL_Larry_Black		LB-081	R-T2-LB081		Larry Black	Control	Alternative						23_1	2023
+S-T2-LB081	T2	Bulk_soil	Florida	FL_Larry_Black		LB-081	S-T2-LB081		Larry Black	Control	Alternative						23_1	2023
+Z-T2-LB081	T2	Rhizosphere	Florida	FL_Larry_Black		LB-081	Z-T2-LB081		Larry Black	Control	Alternative						23_1	2023
+R-T2-D011	T2	Roots	Florida	FL_DUDA		D-011	R-T2-D011		Duda	compost	None			Tree row	1	1		2023
+R-T2-D012	T2	Roots	Florida	FL_DUDA		D-012	R-T2-D012		Duda	compost	Flumioxazin			Tree row	1	1		2023
+R-T2-D013	T2	Roots	Florida	FL_DUDA		D-013	R-T2-D013		Duda	compost	Glufosinate-ammonium			Tree row	1	1		2023
+R-T2-D014	T2	Roots	Florida	FL_DUDA		D-014	R-T2-D014		Duda	compost	Glyphosate			Tree row	1	1		2023
+R-T2-D021	T2	Roots	Florida	FL_DUDA		D-021	R-T2-D021		Duda	control	None			Tree row	1	2		2023
+R-T2-D022	T2	Roots	Florida	FL_DUDA		D-022	R-T2-D022		Duda	control	Flumioxazin			Tree row	1	2		2023
+R-T2-D023	T2	Roots	Florida	FL_DUDA		D-023	R-T2-D023		Duda	control	Glufosinate-ammonium			Tree row	1	2		2023
+R-T2-D024	T2	Roots	Florida	FL_DUDA		D-024	R-T2-D024		Duda	control	Glyphosate			Tree row	1	2		2023
+R-T2-D031	T2	Roots	Florida	FL_DUDA		D-031	R-T2-D031		Duda	humic	None			Tree row	1	3		2023
+R-T2-D032	T2	Roots	Florida	FL_DUDA		D-032	R-T2-D032		Duda	humic	Flumioxazin			Tree row	1	3		2023
+R-T2-D033	T2	Roots	Florida	FL_DUDA		D-033	R-T2-D033		Duda	humic	Glufosinate-ammonium			Tree row	1	3		2023
+R-T2-D034	T2	Roots	Florida	FL_DUDA		D-034	R-T2-D034		Duda	humic	Glyphosate			Tree row	1	3		2023
+R-T2-D041	T2	Roots	Florida	FL_DUDA		D-041	R-T2-D041		Duda	control	Flumioxazin			Tree row	2	4		2023
+R-T2-D042	T2	Roots	Florida	FL_DUDA		D-042	R-T2-D042		Duda	control	Glyphosate			Tree row	2	4		2023
+R-T2-D043	T2	Roots	Florida	FL_DUDA		D-043	R-T2-D043		Duda	control	None			Tree row	2	4		2023
+R-T2-D044	T2	Roots	Florida	FL_DUDA		D-044	R-T2-D044		Duda	control	Glufosinate-ammonium			Tree row	2	4		2023
+R-T2-D051	T2	Roots	Florida	FL_DUDA		D-051	R-T2-D051		Duda	compost	Flumioxazin			Tree row	2	5		2023
+R-T2-D052	T2	Roots	Florida	FL_DUDA		D-052	R-T2-D052		Duda	compost	Glyphosate			Tree row	2	5		2023
+R-T2-D053	T2	Roots	Florida	FL_DUDA		D-053	R-T2-D053		Duda	compost	None			Tree row	2	5		2023
+R-T2-D054	T2	Roots	Florida	FL_DUDA		D-054	R-T2-D054		Duda	compost	Glufosinate-ammonium			Tree row	2	5		2023
+R-T2-D061	T2	Roots	Florida	FL_DUDA		D-061	R-T2-D061		Duda	humic	Flumioxazin			Tree row	2	6		2023
+R-T2-D062	T2	Roots	Florida	FL_DUDA		D-062	R-T2-D062		Duda	humic	Glyphosate			Tree row	2	6		2023
+R-T2-D063	T2	Roots	Florida	FL_DUDA		D-063	R-T2-D063		Duda	humic	None			Tree row	2	6		2023
+R-T2-D064	T2	Roots	Florida	FL_DUDA		D-064	R-T2-D064		Duda	humic	Glufosinate-ammonium			Tree row	2	6		2023
+R-T2-D071	T2	Roots	Florida	FL_DUDA		D-071	R-T2-D071		Duda	compost	Glufosinate-ammonium			Tree row	3	7		2023
+R-T2-D072	T2	Roots	Florida	FL_DUDA		D-072	R-T2-D072		Duda	compost	None			Tree row	3	7		2023
+R-T2-D073	T2	Roots	Florida	FL_DUDA		D-073	R-T2-D073		Duda	compost	Glyphosate			Tree row	3	7		2023
+R-T2-D074	T2	Roots	Florida	FL_DUDA		D-074	R-T2-D074		Duda	compost	Flumioxazin			Tree row	3	7		2023
+R-T2-D081	T2	Roots	Florida	FL_DUDA		D-081	R-T2-D081		Duda	humic	Glufosinate-ammonium			Tree row	3	8		2023
+R-T2-D082	T2	Roots	Florida	FL_DUDA		D-082	R-T2-D082		Duda	humic	None			Tree row	3	8		2023
+R-T2-D083	T2	Roots	Florida	FL_DUDA		D-083	R-T2-D083		Duda	humic	Glyphosate			Tree row	3	8		2023
+R-T2-D084	T2	Roots	Florida	FL_DUDA		D-084	R-T2-D084		Duda	humic	Flumioxazin			Tree row	3	8		2023
+R-T2-D091	T2	Roots	Florida	FL_DUDA		D-091	R-T2-D091		Duda	control	Glufosinate-ammonium			Tree row	3	9		2023
+R-T2-D092	T2	Roots	Florida	FL_DUDA		D-092	R-T2-D092		Duda	control	None			Tree row	3	9		2023
+R-T2-D093	T2	Roots	Florida	FL_DUDA		D-093	R-T2-D093		Duda	control	Glyphosate			Tree row	3	9		2023
+R-T2-D094	T2	Roots	Florida	FL_DUDA		D-094	R-T2-D094		Duda	control	Flumioxazin			Tree row	3	9		2023
+R-T2-D101	T2	Roots	Florida	FL_DUDA		D-101	R-T2-D101		Duda	humic	None			Tree row	4	10		2023
+R-T2-D102	T2	Roots	Florida	FL_DUDA		D-102	R-T2-D102		Duda	humic	Glufosinate-ammonium			Tree row	4	10		2023
+R-T2-D103	T2	Roots	Florida	FL_DUDA		D-103	R-T2-D103		Duda	humic	Flumioxazin			Tree row	4	10		2023
+R-T2-D104	T2	Roots	Florida	FL_DUDA		D-104	R-T2-D104		Duda	humic	Glyphosate			Tree row	4	10		2023
+R-T2-D111	T2	Roots	Florida	FL_DUDA		D-111	R-T2-D111		Duda	compost	None			Tree row	4	11		2023
+R-T2-D112	T2	Roots	Florida	FL_DUDA		D-112	R-T2-D112		Duda	compost	Glufosinate-ammonium			Tree row	4	11		2023
+R-T2-D113	T2	Roots	Florida	FL_DUDA		D-113	R-T2-D113		Duda	compost	Flumioxazin			Tree row	4	11		2023
+R-T2-D114	T2	Roots	Florida	FL_DUDA		D-114	R-T2-D114		Duda	compost	Glyphosate			Tree row	4	11		2023
+R-T2-D121	T2	Roots	Florida	FL_DUDA		D-121	R-T2-D121		Duda	control	None			Tree row	4	12		2023
+R-T2-D122	T2	Roots	Florida	FL_DUDA		D-122	R-T2-D122		Duda	control	Glufosinate-ammonium			Tree row	4	12		2023
+R-T2-D123	T2	Roots	Florida	FL_DUDA		D-123	R-T2-D123		Duda	control	Flumioxazin			Tree row	4	12		2023
+R-T2-D124	T2	Roots	Florida	FL_DUDA		D-124	R-T2-D124		Duda	control	Glyphosate			Tree row	4	12		2023
+R-T2-D131	T2	Roots	Florida	FL_DUDA		D-131	R-T2-D131		Duda	humic	Glyphosate			Tree row	5	13		2023
+R-T2-D132	T2	Roots	Florida	FL_DUDA		D-132	R-T2-D132		Duda	humic	Flumioxazin			Tree row	5	13		2023
+R-T2-D133	T2	Roots	Florida	FL_DUDA		D-133	R-T2-D133		Duda	humic	Glufosinate-ammonium			Tree row	5	13		2023
+R-T2-D134	T2	Roots	Florida	FL_DUDA		D-134	R-T2-D134		Duda	humic	None			Tree row	5	13		2023
+R-T2-D141	T2	Roots	Florida	FL_DUDA		D-141	R-T2-D141		Duda	control	Glyphosate			Tree row	5	14		2023
+R-T2-D142	T2	Roots	Florida	FL_DUDA		D-142	R-T2-D142		Duda	control	Flumioxazin			Tree row	5	14		2023
+R-T2-D143	T2	Roots	Florida	FL_DUDA		D-143	R-T2-D143		Duda	control	Glufosinate-ammonium			Tree row	5	14		2023
+R-T2-D144	T2	Roots	Florida	FL_DUDA		D-144	R-T2-D144		Duda	control	None			Tree row	5	14		2023
+R-T2-D151	T2	Roots	Florida	FL_DUDA		D-151	R-T2-D151		Duda	compost	Glyphosate			Tree row	5	15		2023
+R-T2-D152	T2	Roots	Florida	FL_DUDA		D-152	R-T2-D152		Duda	compost	Flumioxazin			Tree row	5	15		2023
+R-T2-D153	T2	Roots	Florida	FL_DUDA		D-153	R-T2-D153		Duda	compost	Glufosinate-ammonium			Tree row	5	15		2023
+R-T2-D154	T2	Roots	Florida	FL_DUDA		D-154	R-T2-D154		Duda	compost	None			Tree row	5	15		2023
+L-T0-LB082	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-082	L-T0-LB082		Larry Black	Control	Glyphosate			Tree row			23_2	2021
+LB082-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-082	S-T0-LB082		Larry Black	Control	Glyphosate						23_2	2021
+LB082-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-082	Z-T0-LB082		Larry Black	Control	Glyphosate						23_2	2021
+R-T0-LB082	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-082	R-T0-LB082		Larry Black	Control	Glyphosate			Tree row			23_2	2021
+L-T1-LB082	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-082	L-T1-LB082		Larry Black	Control	Glyphosate			Tree row			23_2	2022
+LB082-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-082	S-T1-LB082		Larry Black	Control	Glyphosate						23_2	2022
+LB082-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-082	Z-T1-LB082		Larry Black	Control	Glyphosate						23_2	2022
+R-T1-LB082	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-082	R-T1-LB082		Larry Black	Control	Glyphosate			Tree row			23_2	2022
+L-T2-LB082	T2	Leaves	Florida	FL_Larry_Black		LB-082	L-T2-LB082		Larry Black	Control	Glyphosate						23_2	2023
+R-T2-LB082	T2	Roots	Florida	FL_Larry_Black		LB-082	R-T2-LB082		Larry Black	Control	Glyphosate						23_2	2023
+S-T2-LB082	T2	Bulk_soil	Florida	FL_Larry_Black		LB-082	S-T2-LB082		Larry Black	Control	Glyphosate						23_2	2023
+Z-T2-LB082	T2	Rhizosphere	Florida	FL_Larry_Black		LB-082	Z-T2-LB082		Larry Black	Control	Glyphosate						23_2	2023
+L-T0-LB091	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-091	L-T0-LB091		Larry Black	Cover_crop	Glyphosate			Tree row			26_1	2021
+LB091-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-091	S-T0-LB091		Larry Black	Cover_crop	Glyphosate						26_1	2021
+LB091-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-091	Z-T0-LB091		Larry Black	Cover_crop	Glyphosate						26_1	2021
+R-T0-LB091	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-091	R-T0-LB091		Larry Black	Cover_crop	Glyphosate			Tree row			26_1	2021
+L-T1-LB091	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-091	L-T1-LB091		Larry Black	Cover_crop	Glyphosate			Tree row			26_1	2022
+LB091-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-091	S-T1-LB091		Larry Black	Cover_crop	Glyphosate						26_1	2022
+LB091-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-091	Z-T1-LB091		Larry Black	Cover_crop	Glyphosate						26_1	2022
+R-T1-LB091	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-091	R-T1-LB091		Larry Black	Cover_crop	Glyphosate			Tree row			26_1	2022
+L-T2-LB091	T2	Leaves	Florida	FL_Larry_Black		LB-091	L-T2-LB091		Larry Black	Cover_crop	Glyphosate						26_1	2023
+R-T2-LB091	T2	Roots	Florida	FL_Larry_Black		LB-091	R-T2-LB091		Larry Black	Cover_crop	Glyphosate						26_1	2023
+S-T2-LB091	T2	Bulk_soil	Florida	FL_Larry_Black		LB-091	S-T2-LB091		Larry Black	Cover_crop	Glyphosate						26_1	2023
+Z-T2-LB091	T2	Rhizosphere	Florida	FL_Larry_Black		LB-091	Z-T2-LB091		Larry Black	Cover_crop	Glyphosate						26_1	2023
+L-T0-LB092	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-092	L-T0-LB092		Larry Black	Cover_crop	Glyphosate			Tree row			26_2	2021
+LB092-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-092	S-T0-LB092		Larry Black	Cover_crop	Glyphosate						26_2	2021
+LB092-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-092	Z-T0-LB092		Larry Black	Cover_crop	Glyphosate						26_2	2021
+R-T0-LB092	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-092	R-T0-LB092		Larry Black	Cover_crop	Glyphosate			Tree row			26_2	2021
+L-T1-LB092	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-092	L-T1-LB092		Larry Black	Cover_crop	Glyphosate			Tree row			26_2	2022
+LB092-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-092	S-T1-LB092		Larry Black	Cover_crop	Glyphosate						26_2	2022
+LB092-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-092	Z-T1-LB092		Larry Black	Cover_crop	Glyphosate						26_2	2022
+R-T1-LB092	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-092	R-T1-LB092		Larry Black	Cover_crop	Glyphosate			Tree row			26_2	2022
+L-T2-LB092	T2	Leaves	Florida	FL_Larry_Black		LB-092	L-T2-LB092		Larry Black	Cover_crop	Glyphosate						26_2	2023
+R-T2-LB092	T2	Roots	Florida	FL_Larry_Black		LB-092	R-T2-LB092		Larry Black	Cover_crop	Glyphosate						26_2	2023
+S-T2-LB092	T2	Bulk_soil	Florida	FL_Larry_Black		LB-092	S-T2-LB092		Larry Black	Cover_crop	Glyphosate						26_2	2023
+Z-T2-LB092	T2	Rhizosphere	Florida	FL_Larry_Black		LB-092	Z-T2-LB092		Larry Black	Cover_crop	Glyphosate						26_2	2023
+S-T2-D011	T2	Bulk_soil	Florida	FL_DUDA		D-011	S-T2-D011		Duda	compost	None			Tree row	1	1		2023
+S-T2-D012	T2	Bulk_soil	Florida	FL_DUDA		D-012	S-T2-D012		Duda	compost	Flumioxazin			Tree row	1	1		2023
+S-T2-D013	T2	Bulk_soil	Florida	FL_DUDA		D-013	S-T2-D013		Duda	compost	Glufosinate-ammonium			Tree row	1	1		2023
+S-T2-D014	T2	Bulk_soil	Florida	FL_DUDA		D-014	S-T2-D014		Duda	compost	Glyphosate			Tree row	1	1		2023
+S-T2-D021	T2	Bulk_soil	Florida	FL_DUDA		D-021	S-T2-D021		Duda	control	None			Tree row	1	2		2023
+S-T2-D022	T2	Bulk_soil	Florida	FL_DUDA		D-022	S-T2-D022		Duda	control	Flumioxazin			Tree row	1	2		2023
+S-T2-D023	T2	Bulk_soil	Florida	FL_DUDA		D-023	S-T2-D023		Duda	control	Glufosinate-ammonium			Tree row	1	2		2023
+S-T2-D024	T2	Bulk_soil	Florida	FL_DUDA		D-024	S-T2-D024		Duda	control	Glyphosate			Tree row	1	2		2023
+S-T2-D031	T2	Bulk_soil	Florida	FL_DUDA		D-031	S-T2-D031		Duda	humic	None			Tree row	1	3		2023
+S-T2-D032	T2	Bulk_soil	Florida	FL_DUDA		D-032	S-T2-D032		Duda	humic	Flumioxazin			Tree row	1	3		2023
+S-T2-D033	T2	Bulk_soil	Florida	FL_DUDA		D-033	S-T2-D033		Duda	humic	Glufosinate-ammonium			Tree row	1	3		2023
+S-T2-D034	T2	Bulk_soil	Florida	FL_DUDA		D-034	S-T2-D034		Duda	humic	Glyphosate			Tree row	1	3		2023
+S-T2-D041	T2	Bulk_soil	Florida	FL_DUDA		D-041	S-T2-D041		Duda	control	Flumioxazin			Tree row	2	4		2023
+S-T2-D042	T2	Bulk_soil	Florida	FL_DUDA		D-042	S-T2-D042		Duda	control	Glyphosate			Tree row	2	4		2023
+S-T2-D043	T2	Bulk_soil	Florida	FL_DUDA		D-043	S-T2-D043		Duda	control	None			Tree row	2	4		2023
+S-T2-D044	T2	Bulk_soil	Florida	FL_DUDA		D-044	S-T2-D044		Duda	control	Glufosinate-ammonium			Tree row	2	4		2023
+S-T2-D051	T2	Bulk_soil	Florida	FL_DUDA		D-051	S-T2-D051		Duda	compost	Flumioxazin			Tree row	2	5		2023
+S-T2-D052	T2	Bulk_soil	Florida	FL_DUDA		D-052	S-T2-D052		Duda	compost	Glyphosate			Tree row	2	5		2023
+S-T2-D053	T2	Bulk_soil	Florida	FL_DUDA		D-053	S-T2-D053		Duda	compost	None			Tree row	2	5		2023
+S-T2-D054	T2	Bulk_soil	Florida	FL_DUDA		D-054	S-T2-D054		Duda	compost	Glufosinate-ammonium			Tree row	2	5		2023
+S-T2-D061	T2	Bulk_soil	Florida	FL_DUDA		D-061	S-T2-D061		Duda	humic	Flumioxazin			Tree row	2	6		2023
+S-T2-D062	T2	Bulk_soil	Florida	FL_DUDA		D-062	S-T2-D062		Duda	humic	Glyphosate			Tree row	2	6		2023
+S-T2-D063	T2	Bulk_soil	Florida	FL_DUDA		D-063	S-T2-D063		Duda	humic	None			Tree row	2	6		2023
+S-T2-D064	T2	Bulk_soil	Florida	FL_DUDA		D-064	S-T2-D064		Duda	humic	Glufosinate-ammonium			Tree row	2	6		2023
+S-T2-D071	T2	Bulk_soil	Florida	FL_DUDA		D-071	S-T2-D071		Duda	compost	Glufosinate-ammonium			Tree row	3	7		2023
+S-T2-D072	T2	Bulk_soil	Florida	FL_DUDA		D-072	S-T2-D072		Duda	compost	None			Tree row	3	7		2023
+S-T2-D073	T2	Bulk_soil	Florida	FL_DUDA		D-073	S-T2-D073		Duda	compost	Glyphosate			Tree row	3	7		2023
+S-T2-D074	T2	Bulk_soil	Florida	FL_DUDA		D-074	S-T2-D074		Duda	compost	Flumioxazin			Tree row	3	7		2023
+S-T2-D081	T2	Bulk_soil	Florida	FL_DUDA		D-081	S-T2-D081		Duda	humic	Glufosinate-ammonium			Tree row	3	8		2023
+S-T2-D082	T2	Bulk_soil	Florida	FL_DUDA		D-082	S-T2-D082		Duda	humic	None			Tree row	3	8		2023
+S-T2-D083	T2	Bulk_soil	Florida	FL_DUDA		D-083	S-T2-D083		Duda	humic	Glyphosate			Tree row	3	8		2023
+S-T2-D084	T2	Bulk_soil	Florida	FL_DUDA		D-084	S-T2-D084		Duda	humic	Flumioxazin			Tree row	3	8		2023
+S-T2-D091	T2	Bulk_soil	Florida	FL_DUDA		D-091	S-T2-D091		Duda	control	Glufosinate-ammonium			Tree row	3	9		2023
+S-T2-D092	T2	Bulk_soil	Florida	FL_DUDA		D-092	S-T2-D092		Duda	control	None			Tree row	3	9		2023
+S-T2-D093	T2	Bulk_soil	Florida	FL_DUDA		D-093	S-T2-D093		Duda	control	Glyphosate			Tree row	3	9		2023
+S-T2-D094	T2	Bulk_soil	Florida	FL_DUDA		D-094	S-T2-D094		Duda	control	Flumioxazin			Tree row	3	9		2023
+S-T2-D101	T2	Bulk_soil	Florida	FL_DUDA		D-101	S-T2-D101		Duda	humic	None			Tree row	4	10		2023
+S-T2-D102	T2	Bulk_soil	Florida	FL_DUDA		D-102	S-T2-D102		Duda	humic	Glufosinate-ammonium			Tree row	4	10		2023
+S-T2-D103	T2	Bulk_soil	Florida	FL_DUDA		D-103	S-T2-D103		Duda	humic	Flumioxazin			Tree row	4	10		2023
+S-T2-D104	T2	Bulk_soil	Florida	FL_DUDA		D-104	S-T2-D104		Duda	humic	Glyphosate			Tree row	4	10		2023
+S-T2-D111	T2	Bulk_soil	Florida	FL_DUDA		D-111	S-T2-D111		Duda	compost	None			Tree row	4	11		2023
+S-T2-D112	T2	Bulk_soil	Florida	FL_DUDA		D-112	S-T2-D112		Duda	compost	Glufosinate-ammonium			Tree row	4	11		2023
+S-T2-D113	T2	Bulk_soil	Florida	FL_DUDA		D-113	S-T2-D113		Duda	compost	Flumioxazin			Tree row	4	11		2023
+S-T2-D114	T2	Bulk_soil	Florida	FL_DUDA		D-114	S-T2-D114		Duda	compost	Glyphosate			Tree row	4	11		2023
+S-T2-D121	T2	Bulk_soil	Florida	FL_DUDA		D-121	S-T2-D121		Duda	control	None			Tree row	4	12		2023
+S-T2-D122	T2	Bulk_soil	Florida	FL_DUDA		D-122	S-T2-D122		Duda	control	Glufosinate-ammonium			Tree row	4	12		2023
+S-T2-D123	T2	Bulk_soil	Florida	FL_DUDA		D-123	S-T2-D123		Duda	control	Flumioxazin			Tree row	4	12		2023
+S-T2-D124	T2	Bulk_soil	Florida	FL_DUDA		D-124	S-T2-D124		Duda	control	Glyphosate			Tree row	4	12		2023
+S-T2-D131	T2	Bulk_soil	Florida	FL_DUDA		D-131	S-T2-D131		Duda	humic	Glyphosate			Tree row	5	13		2023
+S-T2-D132	T2	Bulk_soil	Florida	FL_DUDA		D-132	S-T2-D132		Duda	humic	Flumioxazin			Tree row	5	13		2023
+S-T2-D133	T2	Bulk_soil	Florida	FL_DUDA		D-133	S-T2-D133		Duda	humic	Glufosinate-ammonium			Tree row	5	13		2023
+S-T2-D134	T2	Bulk_soil	Florida	FL_DUDA		D-134	S-T2-D134		Duda	humic	None			Tree row	5	13		2023
+S-T2-D141	T2	Bulk_soil	Florida	FL_DUDA		D-141	S-T2-D141		Duda	control	Glyphosate			Tree row	5	14		2023
+S-T2-D142	T2	Bulk_soil	Florida	FL_DUDA		D-142	S-T2-D142		Duda	control	Flumioxazin			Tree row	5	14		2023
+S-T2-D143	T2	Bulk_soil	Florida	FL_DUDA		D-143	S-T2-D143		Duda	control	Glufosinate-ammonium			Tree row	5	14		2023
+S-T2-D144	T2	Bulk_soil	Florida	FL_DUDA		D-144	S-T2-D144		Duda	control	None			Tree row	5	14		2023
+S-T2-D151	T2	Bulk_soil	Florida	FL_DUDA		D-151	S-T2-D151		Duda	compost	Glyphosate			Tree row	5	15		2023
+S-T2-D152	T2	Bulk_soil	Florida	FL_DUDA		D-152	S-T2-D152		Duda	compost	Flumioxazin			Tree row	5	15		2023
+S-T2-D153	T2	Bulk_soil	Florida	FL_DUDA		D-153	S-T2-D153		Duda	compost	Glufosinate-ammonium			Tree row	5	15		2023
+S-T2-D154	T2	Bulk_soil	Florida	FL_DUDA		D-154	S-T2-D154		Duda	compost	None			Tree row	5	15		2023
+L-T0-LB101	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-101	L-T0-LB101		Larry Black	Control	Glyphosate			Tree row			29_1	2021
+LB101-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-101	S-T0-LB101		Larry Black	Control	Glyphosate						29_1	2021
+LB101-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-101	Z-T0-LB101		Larry Black	Control	Glyphosate						29_1	2021
+R-T0-LB101	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-101	R-T0-LB101		Larry Black	Control	Glyphosate			Tree row			29_1	2021
+L-T1-LB101	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-101	L-T1-LB101		Larry Black	Control	Glyphosate			Tree row			29_1	2022
+LB101-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-101	S-T1-LB101		Larry Black	Control	Glyphosate						29_1	2022
+LB101-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-101	Z-T1-LB101		Larry Black	Control	Glyphosate						29_1	2022
+R-T1-LB101	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-101	R-T1-LB101		Larry Black	Control	Glyphosate			Tree row			29_1	2022
+L-T2-LB101	T2	Leaves	Florida	FL_Larry_Black		LB-101	L-T2-LB101		Larry Black	Control	Glyphosate						29_1	2023
+R-T2-LB101	T2	Roots	Florida	FL_Larry_Black		LB-101	R-T2-LB101		Larry Black	Control	Glyphosate						29_1	2023
+S-T2-LB101	T2	Bulk_soil	Florida	FL_Larry_Black		LB-101	S-T2-LB101		Larry Black	Control	Glyphosate						29_1	2023
+Z-T2-LB101	T2	Rhizosphere	Florida	FL_Larry_Black		LB-101	Z-T2-LB101		Larry Black	Control	Glyphosate						29_1	2023
+L-T0-LB102	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-102	L-T0-LB102		Larry Black	Control	Alternative			Tree row			29_2	2021
+LB102-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-102	S-T0-LB102		Larry Black	Control	Alternative						29_2	2021
+LB102-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-102	Z-T0-LB102		Larry Black	Control	Alternative						29_2	2021
+R-T0-LB102	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-102	R-T0-LB102		Larry Black	Control	Alternative			Tree row			29_2	2021
+L-T1-LB102	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-102	L-T1-LB102		Larry Black	Control	Alternative			Tree row			29_2	2022
+LB102-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-102	S-T1-LB102		Larry Black	Control	Alternative						29_2	2022
+LB102-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-102	Z-T1-LB102		Larry Black	Control	Alternative						29_2	2022
+R-T1-LB102	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-102	R-T1-LB102		Larry Black	Control	Alternative			Tree row			29_2	2022
+L-T2-LB102	T2	Leaves	Florida	FL_Larry_Black		LB-102	L-T2-LB102		Larry Black	Control	Alternative						29_2	2023
+R-T2-LB102	T2	Roots	Florida	FL_Larry_Black		LB-102	R-T2-LB102		Larry Black	Control	Alternative						29_2	2023
+S-T2-LB102	T2	Bulk_soil	Florida	FL_Larry_Black		LB-102	S-T2-LB102		Larry Black	Control	Alternative						29_2	2023
+Z-T2-LB102	T2	Rhizosphere	Florida	FL_Larry_Black		LB-102	Z-T2-LB102		Larry Black	Control	Alternative						29_2	2023
+L-T0-LB111	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-111	L-T0-LB111		Larry Black	Cover_crop	Alternative			Tree row			32_1	2021
+LB111-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-111	S-T0-LB111		Larry Black	Cover_crop	Alternative						32_1	2021
+LB111-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-111	Z-T0-LB111		Larry Black	Cover_crop	Alternative						32_1	2021
+R-T0-LB111	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-111	R-T0-LB111		Larry Black	Cover_crop	Alternative			Tree row			32_1	2021
+L-T1-LB111	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-111	L-T1-LB111		Larry Black	Cover_crop	Alternative			Tree row			32_1	2022
+LB111-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-111	S-T1-LB111		Larry Black	Cover_crop	Alternative						32_1	2022
+LB111-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-111	Z-T1-LB111		Larry Black	Cover_crop	Alternative						32_1	2022
+R-T1-LB111	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-111	R-T1-LB111		Larry Black	Cover_crop	Alternative			Tree row			32_1	2022
+L-T2-LB111	T2	Leaves	Florida	FL_Larry_Black		LB-111	L-T2-LB111		Larry Black	Cover_crop	Alternative						32_1	2023
+R-T2-LB111	T2	Roots	Florida	FL_Larry_Black		LB-111	R-T2-LB111		Larry Black	Cover_crop	Alternative						32_1	2023
+S-T2-LB111	T2	Bulk_soil	Florida	FL_Larry_Black		LB-111	S-T2-LB111		Larry Black	Cover_crop	Alternative						32_1	2023
+Z-T2-LB111	T2	Rhizosphere	Florida	FL_Larry_Black		LB-111	Z-T2-LB111		Larry Black	Cover_crop	Alternative						32_1	2023
+Z-T2-D011	T2	Rhizosphere	Florida	FL_DUDA		D-011	Z-T2-D011		Duda	compost	None			Tree row	1	1		2023
+Z-T2-D012	T2	Rhizosphere	Florida	FL_DUDA		D-012	Z-T2-D012		Duda	compost	Flumioxazin			Tree row	1	1		2023
+Z-T2-D013	T2	Rhizosphere	Florida	FL_DUDA		D-013	Z-T2-D013		Duda	compost	Glufosinate-ammonium			Tree row	1	1		2023
+Z-T2-D014	T2	Rhizosphere	Florida	FL_DUDA		D-014	Z-T2-D014		Duda	compost	Glyphosate			Tree row	1	1		2023
+Z-T2-D021	T2	Rhizosphere	Florida	FL_DUDA		D-021	Z-T2-D021		Duda	control	None			Tree row	1	2		2023
+Z-T2-D022	T2	Rhizosphere	Florida	FL_DUDA		D-022	Z-T2-D022		Duda	control	Flumioxazin			Tree row	1	2		2023
+Z-T2-D023	T2	Rhizosphere	Florida	FL_DUDA		D-023	Z-T2-D023		Duda	control	Glufosinate-ammonium			Tree row	1	2		2023
+Z-T2-D024	T2	Rhizosphere	Florida	FL_DUDA		D-024	Z-T2-D024		Duda	control	Glyphosate			Tree row	1	2		2023
+Z-T2-D031	T2	Rhizosphere	Florida	FL_DUDA		D-031	Z-T2-D031		Duda	humic	None			Tree row	1	3		2023
+Z-T2-D032	T2	Rhizosphere	Florida	FL_DUDA		D-032	Z-T2-D032		Duda	humic	Flumioxazin			Tree row	1	3		2023
+Z-T2-D033	T2	Rhizosphere	Florida	FL_DUDA		D-033	Z-T2-D033		Duda	humic	Glufosinate-ammonium			Tree row	1	3		2023
+Z-T2-D034	T2	Rhizosphere	Florida	FL_DUDA		D-034	Z-T2-D034		Duda	humic	Glyphosate			Tree row	1	3		2023
+Z-T2-D041	T2	Rhizosphere	Florida	FL_DUDA		D-041	Z-T2-D041		Duda	control	Flumioxazin			Tree row	2	4		2023
+Z-T2-D042	T2	Rhizosphere	Florida	FL_DUDA		D-042	Z-T2-D042		Duda	control	Glyphosate			Tree row	2	4		2023
+Z-T2-D043	T2	Rhizosphere	Florida	FL_DUDA		D-043	Z-T2-D043		Duda	control	None			Tree row	2	4		2023
+Z-T2-D044	T2	Rhizosphere	Florida	FL_DUDA		D-044	Z-T2-D044		Duda	control	Glufosinate-ammonium			Tree row	2	4		2023
+Z-T2-D051	T2	Rhizosphere	Florida	FL_DUDA		D-051	Z-T2-D051		Duda	compost	Flumioxazin			Tree row	2	5		2023
+Z-T2-D052	T2	Rhizosphere	Florida	FL_DUDA		D-052	Z-T2-D052		Duda	compost	Glyphosate			Tree row	2	5		2023
+Z-T2-D053	T2	Rhizosphere	Florida	FL_DUDA		D-053	Z-T2-D053		Duda	compost	None			Tree row	2	5		2023
+Z-T2-D054	T2	Rhizosphere	Florida	FL_DUDA		D-054	Z-T2-D054		Duda	compost	Glufosinate-ammonium			Tree row	2	5		2023
+Z-T2-D061	T2	Rhizosphere	Florida	FL_DUDA		D-061	Z-T2-D061		Duda	humic	Flumioxazin			Tree row	2	6		2023
+Z-T2-D062	T2	Rhizosphere	Florida	FL_DUDA		D-062	Z-T2-D062		Duda	humic	Glyphosate			Tree row	2	6		2023
+Z-T2-D063	T2	Rhizosphere	Florida	FL_DUDA		D-063	Z-T2-D063		Duda	humic	None			Tree row	2	6		2023
+Z-T2-D064	T2	Rhizosphere	Florida	FL_DUDA		D-064	Z-T2-D064		Duda	humic	Glufosinate-ammonium			Tree row	2	6		2023
+Z-T2-D071	T2	Rhizosphere	Florida	FL_DUDA		D-071	Z-T2-D071		Duda	compost	Glufosinate-ammonium			Tree row	3	7		2023
+Z-T2-D072	T2	Rhizosphere	Florida	FL_DUDA		D-072	Z-T2-D072		Duda	compost	None			Tree row	3	7		2023
+Z-T2-D073	T2	Rhizosphere	Florida	FL_DUDA		D-073	Z-T2-D073		Duda	compost	Glyphosate			Tree row	3	7		2023
+Z-T2-D074	T2	Rhizosphere	Florida	FL_DUDA		D-074	Z-T2-D074		Duda	compost	Flumioxazin			Tree row	3	7		2023
+Z-T2-D081	T2	Rhizosphere	Florida	FL_DUDA		D-081	Z-T2-D081		Duda	humic	Glufosinate-ammonium			Tree row	3	8		2023
+Z-T2-D082	T2	Rhizosphere	Florida	FL_DUDA		D-082	Z-T2-D082		Duda	humic	None			Tree row	3	8		2023
+Z-T2-D083	T2	Rhizosphere	Florida	FL_DUDA		D-083	Z-T2-D083		Duda	humic	Glyphosate			Tree row	3	8		2023
+Z-T2-D084	T2	Rhizosphere	Florida	FL_DUDA		D-084	Z-T2-D084		Duda	humic	Flumioxazin			Tree row	3	8		2023
+Z-T2-D091	T2	Rhizosphere	Florida	FL_DUDA		D-091	Z-T2-D091		Duda	control	Glufosinate-ammonium			Tree row	3	9		2023
+Z-T2-D092	T2	Rhizosphere	Florida	FL_DUDA		D-092	Z-T2-D092		Duda	control	None			Tree row	3	9		2023
+Z-T2-D093	T2	Rhizosphere	Florida	FL_DUDA		D-093	Z-T2-D093		Duda	control	Glyphosate			Tree row	3	9		2023
+Z-T2-D094	T2	Rhizosphere	Florida	FL_DUDA		D-094	Z-T2-D094		Duda	control	Flumioxazin			Tree row	3	9		2023
+Z-T2-D101	T2	Rhizosphere	Florida	FL_DUDA		D-101	Z-T2-D101		Duda	humic	None			Tree row	4	10		2023
+Z-T2-D102	T2	Rhizosphere	Florida	FL_DUDA		D-102	Z-T2-D102		Duda	humic	Glufosinate-ammonium			Tree row	4	10		2023
+Z-T2-D103	T2	Rhizosphere	Florida	FL_DUDA		D-103	Z-T2-D103		Duda	humic	Flumioxazin			Tree row	4	10		2023
+Z-T2-D104	T2	Rhizosphere	Florida	FL_DUDA		D-104	Z-T2-D104		Duda	humic	Glyphosate			Tree row	4	10		2023
+Z-T2-D111	T2	Rhizosphere	Florida	FL_DUDA		D-111	Z-T2-D111		Duda	compost	None			Tree row	4	11		2023
+Z-T2-D112	T2	Rhizosphere	Florida	FL_DUDA		D-112	Z-T2-D112		Duda	compost	Glufosinate-ammonium			Tree row	4	11		2023
+Z-T2-D113	T2	Rhizosphere	Florida	FL_DUDA		D-113	Z-T2-D113		Duda	compost	Flumioxazin			Tree row	4	11		2023
+Z-T2-D114	T2	Rhizosphere	Florida	FL_DUDA		D-114	Z-T2-D114		Duda	compost	Glyphosate			Tree row	4	11		2023
+Z-T2-D121	T2	Rhizosphere	Florida	FL_DUDA		D-121	Z-T2-D121		Duda	control	None			Tree row	4	12		2023
+Z-T2-D122	T2	Rhizosphere	Florida	FL_DUDA		D-122	Z-T2-D122		Duda	control	Glufosinate-ammonium			Tree row	4	12		2023
+Z-T2-D123	T2	Rhizosphere	Florida	FL_DUDA		D-123	Z-T2-D123		Duda	control	Flumioxazin			Tree row	4	12		2023
+Z-T2-D124	T2	Rhizosphere	Florida	FL_DUDA		D-124	Z-T2-D124		Duda	control	Glyphosate			Tree row	4	12		2023
+Z-T2-D131	T2	Rhizosphere	Florida	FL_DUDA		D-131	Z-T2-D131		Duda	humic	Glyphosate			Tree row	5	13		2023
+Z-T2-D132	T2	Rhizosphere	Florida	FL_DUDA		D-132	Z-T2-D132		Duda	humic	Flumioxazin			Tree row	5	13		2023
+Z-T2-D133	T2	Rhizosphere	Florida	FL_DUDA		D-133	Z-T2-D133		Duda	humic	Glufosinate-ammonium			Tree row	5	13		2023
+Z-T2-D134	T2	Rhizosphere	Florida	FL_DUDA		D-134	Z-T2-D134		Duda	humic	None			Tree row	5	13		2023
+Z-T2-D141	T2	Rhizosphere	Florida	FL_DUDA		D-141	Z-T2-D141		Duda	control	Glyphosate			Tree row	5	14		2023
+Z-T2-D142	T2	Rhizosphere	Florida	FL_DUDA		D-142	Z-T2-D142		Duda	control	Flumioxazin			Tree row	5	14		2023
+Z-T2-D143	T2	Rhizosphere	Florida	FL_DUDA		D-143	Z-T2-D143		Duda	control	Glufosinate-ammonium			Tree row	5	14		2023
+Z-T2-D144	T2	Rhizosphere	Florida	FL_DUDA		D-144	Z-T2-D144		Duda	control	None			Tree row	5	14		2023
+Z-T2-D151	T2	Rhizosphere	Florida	FL_DUDA		D-151	Z-T2-D151		Duda	compost	Glyphosate			Tree row	5	15		2023
+Z-T2-D152	T2	Rhizosphere	Florida	FL_DUDA		D-152	Z-T2-D152		Duda	compost	Flumioxazin			Tree row	5	15		2023
+Z-T2-D153	T2	Rhizosphere	Florida	FL_DUDA		D-153	Z-T2-D153		Duda	compost	Glufosinate-ammonium			Tree row	5	15		2023
+Z-T2-D154	T2	Rhizosphere	Florida	FL_DUDA		D-154	Z-T2-D154		Duda	compost	None			Tree row	5	15		2023
+L-T0-LB112	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-112	L-T0-LB112		Larry Black	Cover_crop	Alternative			Tree row			32_2	2021
+LB112-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-112	S-T0-LB112		Larry Black	Cover_crop	Alternative						32_2	2021
+LB112-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-112	Z-T0-LB112		Larry Black	Cover_crop	Alternative						32_2	2021
+R-T0-LB112	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-112	R-T0-LB112		Larry Black	Cover_crop	Alternative			Tree row			32_2	2021
+L-T1-LB112	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-112	L-T1-LB112		Larry Black	Cover_crop	Alternative			Tree row			32_2	2022
+LB112-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-112	S-T1-LB112		Larry Black	Cover_crop	Alternative						32_2	2022
+LB112-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-112	Z-T1-LB112		Larry Black	Cover_crop	Alternative						32_2	2022
+R-T1-LB112	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-112	R-T1-LB112		Larry Black	Cover_crop	Alternative			Tree row			32_2	2022
+L-T2-LB112	T2	Leaves	Florida	FL_Larry_Black		LB-112	L-T2-LB112		Larry Black	Cover_crop	Alternative						32_2	2023
+R-T2-LB112	T2	Roots	Florida	FL_Larry_Black		LB-112	R-T2-LB112		Larry Black	Cover_crop	Alternative						32_2	2023
+S-T2-LB112	T2	Bulk_soil	Florida	FL_Larry_Black		LB-112	S-T2-LB112		Larry Black	Cover_crop	Alternative						32_2	2023
+Z-T2-LB112	T2	Rhizosphere	Florida	FL_Larry_Black		LB-112	Z-T2-LB112		Larry Black	Cover_crop	Alternative						32_2	2023
+L-T0-LB121	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-121	L-T0-LB121		Larry Black	Control	Alternative			Tree row			35_1	2021
+LB121-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-121	S-T0-LB121		Larry Black	Control	Alternative						35_1	2021
+LB121-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-121	Z-T0-LB121		Larry Black	Control	Alternative						35_1	2021
+R-T0-LB121	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-121	R-T0-LB121		Larry Black	Control	Alternative			Tree row			35_1	2021
+L-T1-LB121	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-121	L-T1-LB121		Larry Black	Control	Alternative			Tree row			35_1	2022
+LB121-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-121	S-T1-LB121		Larry Black	Control	Alternative						35_1	2022
+LB121-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-121	Z-T1-LB121		Larry Black	Control	Alternative						35_1	2022
+R-T1-LB121	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-121	R-T1-LB121		Larry Black	Control	Alternative			Tree row			35_1	2022
+L-T2-LB121	T2	Leaves	Florida	FL_Larry_Black		LB-121	L-T2-LB121		Larry Black	Control	Alternative						35_1	2023
+R-T2-LB121	T2	Roots	Florida	FL_Larry_Black		LB-121	R-T2-LB121		Larry Black	Control	Alternative						35_1	2023
+S-T2-LB121	T2	Bulk_soil	Florida	FL_Larry_Black		LB-121	S-T2-LB121		Larry Black	Control	Alternative						35_1	2023
+Z-T2-LB121	T2	Rhizosphere	Florida	FL_Larry_Black		LB-121	Z-T2-LB121		Larry Black	Control	Alternative						35_1	2023
+L-T0-LB122	T0	Leaves	Florida	FL_Larry_Black	5/20/21	LB-122	L-T0-LB122		Larry Black	Control	Glyphosate			Tree row			35_2	2021
+LB122-BT0	T0	Bulk_soil	Florida	FL_Larry_Black		LB-122	S-T0-LB122		Larry Black	Control	Glyphosate						35_2	2021
+LB122-RT0	T0	Rhizosphere	Florida	FL_Larry_Black		LB-122	Z-T0-LB122		Larry Black	Control	Glyphosate						35_2	2021
+R-T0-LB122	T0	Roots	Florida	FL_Larry_Black	5/20/21	LB-122	R-T0-LB122		Larry Black	Control	Glyphosate			Tree row			35_2	2021
+L-T1-LB122	T1	Leaves	Florida	FL_Larry_Black	7/25/22	LB-122	L-T1-LB122		Larry Black	Control	Glyphosate			Tree row			35_2	2022
+LB122-BT1	T1	Bulk_soil	Florida	FL_Larry_Black		LB-122	S-T1-LB122		Larry Black	Control	Glyphosate						35_2	2022
+LB122-RT1	T1	Rhizosphere	Florida	FL_Larry_Black		LB-122	Z-T1-LB122		Larry Black	Control	Glyphosate						35_2	2022
+R-T1-LB122	T1	Roots	Florida	FL_Larry_Black	7/25/22	LB-122	R-T1-LB122		Larry Black	Control	Glyphosate			Tree row			35_2	2022
+L-T2-LB122	T2	Leaves	Florida	FL_Larry_Black		LB-122	L-T2-LB122		Larry Black	Control	Glyphosate						35_2	2023
+R-T2-LB122	T2	Roots	Florida	FL_Larry_Black		LB-122	R-T2-LB122		Larry Black	Control	Glyphosate						35_2	2023
+S-T2-LB122	T2	Bulk_soil	Florida	FL_Larry_Black		LB-122	S-T2-LB122		Larry Black	Control	Glyphosate						35_2	2023
+Z-T2-LB122	T2	Rhizosphere	Florida	FL_Larry_Black		LB-122	Z-T2-LB122		Larry Black	Control	Glyphosate						35_2	2023
+Neg-Pool1-D01	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-D01											
+Neg-Pool1-D02	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-D02											
+Neg-Pool1-D03	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-D03											
+Neg-Pool1-D04	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-D04											
+Neg-Pool1-D05	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-D05											
+Neg-Pool1-D06	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-D06											
+Neg-Pool1-D07	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-D07											
+Neg-Pool1-D08	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-D08											
+Neg-Pool1-P01	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-P01											
+Neg-Pool1-P02	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-P02											
+Neg-Pool1-P03	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-P03											
+Neg-Pool1-P04	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-P04											
+Neg-Pool1-P05	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-P05											
+Neg-Pool1-P06	Neg_Control	Neg_Control	Neg_Control				Neg-Pool1-P06											
+Neg-Pool2-D09	Neg_Control	Neg_Control	Neg_Control				Neg-Pool2-D09											
+Neg-Pool2-D10	Neg_Control	Neg_Control	Neg_Control				Neg-Pool2-D10											
+Neg-Pool2-D11	Neg_Control	Neg_Control	Neg_Control				Neg-Pool2-D11											
+Neg-Pool2-D12	Neg_Control	Neg_Control	Neg_Control				Neg-Pool2-D12											
+Neg-Pool2-P07	Neg_Control	Neg_Control	Neg_Control				Neg-Pool2-P07											
+Neg-Pool2-P08	Neg_Control	Neg_Control	Neg_Control				Neg-Pool2-P08											
+Neg-Pool2-P14	Neg_Control	Neg_Control	Neg_Control				Neg-Pool2-P14											
+Neg-Pool3-P11	Neg_Control	Neg_Control	Neg_Control				Neg-Pool3-P11											
+Neg-Pool3-P13	Neg_Control	Neg_Control	Neg_Control				Neg-Pool3-P13											
+Neg-Pool3-P15	Neg_Control	Neg_Control	Neg_Control				Neg-Pool3-P15											
+Neg-Pool4-D13	Neg_Control	Neg_Control	Neg_Control				Neg-Pool4-D13											
+Neg-Pool4-D14	Neg_Control	Neg_Control	Neg_Control				Neg-Pool4-D14											
+Neg-Pool4-D15	Neg_Control	Neg_Control	Neg_Control				Neg-Pool4-D15											
+Neg-Pool4-P09	Neg_Control	Neg_Control	Neg_Control				Neg-Pool4-P09											
+Neg-Pool4-P10	Neg_Control	Neg_Control	Neg_Control				Neg-Pool4-P10											
+Neg-Pool4-P12	Neg_Control	Neg_Control	Neg_Control				Neg-Pool4-P12											
+Neg-Pool4-P16	Neg_Control	Neg_Control	Neg_Control				Neg-Pool4-P16											
+Neg-Pool4-P17	Neg_Control	Neg_Control	Neg_Control				Neg-Pool4-P17											
+Neg-Pool5-5-1	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-1											
+Neg-Pool5-5-11	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-11											
+Neg-Pool5-5-13	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-13											
+Neg-Pool5-5-15	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-15											
+Neg-Pool5-5-16	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-16											
+Neg-Pool5-5-17	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-17											
+Neg-Pool5-5-18	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-18											
+Neg-Pool5-5-19	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-19											
+Neg-Pool5-5-20	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-20											
+Neg-Pool5-5-21	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-21											
+Neg-Pool5-5-22	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-22											
+Neg-Pool5-5-23	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-23											
+Neg-Pool5-5-3	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-3											
+Neg-Pool5-5-33	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-33											
+Neg-Pool5-5-34	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-34											
+Neg-Pool5-5-35	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-35											
+Neg-Pool5-5-36	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-36											
+Neg-Pool5-5-5	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-5											
+Neg-Pool5-5-7	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-7											
+Neg-Pool5-5-9	Neg_Control	Neg_Control	Neg_Control				Neg-Pool5-5-9											
+Neg-Pool6-6-26	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-26											
+Neg-Pool6-6-27	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-27											
+Neg-Pool6-6-28	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-28											
+Neg-Pool6-6-29	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-29											
+Neg-Pool6-6-30	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-30											
+Neg-Pool6-6-31	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-31											
+Neg-Pool6-6-32	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-32											
+Neg-Pool6-6-33	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-33											
+Neg-Pool6-6-34	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-34											
+Neg-Pool6-6-35	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-35											
+Neg-Pool6-6-36	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-36											
+Neg-Pool6-6-37	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-37											
+Neg-Pool6-6-38	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-38											
+Neg-Pool6-6-39	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-39											
+Neg-Pool6-6-40	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-40											
+Neg-Pool6-6-41	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-41											
+Neg-Pool6-6-42	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-42											
+Neg-Pool6-6-43	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-43											
+Neg-Pool6-6-44	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-44											
+Neg-Pool6-6-45	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-45											
+Neg-Pool6-6-46	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-46											
+Neg-Pool6-6-47	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-47											
+Neg-Pool6-6-48	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-48											
+Neg-Pool6-6-49	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-49											
+Neg-Pool6-6-50	Neg_Control	Neg_Control	Neg_Control				Neg-Pool6-6-50											
+Pos-Pool1-D01	Pos_Control	Pos_Control	Pos_Control				Pos-Pool1-D01											
+Pos-Pool1-D02	Pos_Control	Pos_Control	Pos_Control				Pos-Pool1-D02											
+Pos-Pool1-D03	Pos_Control	Pos_Control	Pos_Control				Pos-Pool1-D03											
+Pos-Pool1-D04	Pos_Control	Pos_Control	Pos_Control				Pos-Pool1-D04											
+Pos-Pool2-D05	Pos_Control	Pos_Control	Pos_Control				Pos-Pool2-D05											
+Pos-Pool2-D05-2	Pos_Control	Pos_Control	Pos_Control				Pos-Pool2-D05-2											
+Pos-Pool2-D06	Pos_Control	Pos_Control	Pos_Control				Pos-Pool2-D06											
+Pos-Pool2-D07	Pos_Control	Pos_Control	Pos_Control				Pos-Pool2-D07											
+Pos-Pool2-D08	Pos_Control	Pos_Control	Pos_Control				Pos-Pool2-D08											
+Pos-Pool3-D09-2	Pos_Control	Pos_Control	Pos_Control				Pos-Pool3-D09-2											
+Pos-Pool3-D11	Pos_Control	Pos_Control	Pos_Control				Pos-Pool3-D11											
+Pos-Pool4-D02_2	Pos_Control	Pos_Control	Pos_Control				Pos-Pool4-D02_2											
+Pos-Pool4-D09	Pos_Control	Pos_Control	Pos_Control				Pos-Pool4-D09											
+Pos-Pool4-D10	Pos_Control	Pos_Control	Pos_Control				Pos-Pool4-D10											
+Pos-Pool5-5-1	Pos_Control	Pos_Control	Pos_Control				Pos-Pool5-5-1											
+Pos-Pool5-5-3	Pos_Control	Pos_Control	Pos_Control				Pos-Pool5-5-3											
+Pos-Pool5-5-5	Pos_Control	Pos_Control	Pos_Control				Pos-Pool5-5-5											
+Pos-Pool5-5-7	Pos_Control	Pos_Control	Pos_Control				Pos-Pool5-5-7											
+Pos-Pool5-5-8	Pos_Control	Pos_Control	Pos_Control				Pos-Pool5-5-8											
+Pos-Pool5-5-9	Pos_Control	Pos_Control	Pos_Control				Pos-Pool5-5-9											
+Pos-Pool6-6-05	Pos_Control	Pos_Control	Pos_Control				Pos-Pool6-6-05											
+Pos-Pool6-6-06	Pos_Control	Pos_Control	Pos_Control				Pos-Pool6-6-06											
+Pos-Pool6-6-07	Pos_Control	Pos_Control	Pos_Control				Pos-Pool6-6-07											
+Pos-Pool6-6-08	Pos_Control	Pos_Control	Pos_Control				Pos-Pool6-6-08											
