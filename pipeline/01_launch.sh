@@ -27,12 +27,14 @@ do
     marker=16S    
     echo "Processing $marker in $region"
     RUNNAME=ECDRE_T0T2_16S_ASV_${region}
-    sbatch --export=ALL,RUNNAME=$RUNNAME -o logs/${marker}_${region}.log -J ${marker}_${region} ../pipeline/helper_16S_ASV.sh 
+    sbatch --export=ALL,RUNNAME=$RUNNAME -o logs/${marker}_${region}_ASV.log -J ${marker}_${region} ../pipeline/helper_16S_ASV.sh 
 
     marker=ITS    
     echo "Processing $marker in $region"
     RUNNAME=ECDRE_T0T2_ITS_OTU_${region}
-    sbatch --export=ALL,RUNNAME=$RUNNAME -o logs/${marker}_${region}.log -J ${marker}_${region} ../pipeline/helper_ITS_OTU.sh 
-
+    sbatch --export=ALL,RUNNAME=$RUNNAME -o logs/${marker}_${region}_OTU.log -J ${marker}_${region} ../pipeline/helper_ITS_OTU.sh 
+    # can't run these concurrently 
+#    RUNNAME=ECDRE_T0T2_ITS_ASV_${region}
+#    sbatch --export=ALL,RUNNAME=$RUNNAME -o logs/${marker}_${region}_ASV.log -J ${marker}_${region}_ASV ../pipeline/helper_ITS_ASV.sh 
     popd
 done
